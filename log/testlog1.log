@@ -1,0 +1,1987 @@
+2020-10-01 21:07:28,960 [main] INFO logger_File - Scenario Login to MyAccount Started 
+2020-10-01 21:07:35,593 [main] INFO logger_File - Login to MyAccount   undefined
+2020-10-02 13:17:32,690 [main] INFO logger_File - Scenario Login to MyAccount Started 
+2020-10-02 13:17:42,672 [main] INFO logger_File - Login to MyAccount   undefined
+2020-10-05 18:16:30,995 [main] INFO logger_File - Scenario Login to MyAccount Started 
+2020-10-05 18:16:39,813 [main] INFO logger_File - Login to MyAccount   undefined
+2020-10-14 22:01:46,679 [main] INFO logger_File - Scenario Login to MyAccount Started 
+2020-10-14 22:01:56,115 [main] INFO logger_File - Login to MyAccount   undefined
+2020-10-14 22:05:59,724 [main] INFO logger_File - Scenario Login to MyAccount Started 
+2020-10-14 22:06:07,298 [main] INFO logger_File - Login to MyAccount   undefined
+2020-10-15 10:36:54,366 [main] INFO logger_File - Scenario Login to MyAccount Started 
+2020-10-15 10:37:04,121 [main] INFO logger_File - Retail page is opened
+2020-10-15 10:37:04,142 [main] INFO logger_File - Page title  is verified
+2020-10-15 10:37:04,971 [main] INFO logger_File - User click on My Account
+2020-10-15 10:37:05,347 [main] INFO logger_File - User click on Login
+2020-10-15 10:37:09,050 [main] INFO logger_File - User enter email address
+2020-10-15 10:37:09,159 [main] INFO logger_File - User enter password
+2020-10-15 10:37:10,391 [main] INFO logger_File - User click on Login button
+2020-10-15 10:37:11,872 [main] INFO logger_File - Login to MyAccount   passed
+2020-10-15 10:48:19,269 [main] INFO logger_File - Scenario Login to MyAccount Started 
+2020-10-15 10:48:27,989 [main] INFO logger_File - Retail page is opened
+2020-10-15 10:48:28,012 [main] INFO logger_File - Page title  is verified
+2020-10-15 10:48:29,334 [main] INFO logger_File - User click on My Account
+2020-10-15 10:48:29,759 [main] INFO logger_File - User click on Login
+2020-10-15 10:48:33,487 [main] INFO logger_File - User enter email address
+2020-10-15 10:48:33,602 [main] INFO logger_File - User enter password
+2020-10-15 10:48:37,643 [main] INFO logger_File - User click on Login button
+2020-10-15 10:48:39,059 [main] INFO logger_File - Login to MyAccount   passed
+2020-10-15 14:32:54,044 [main] INFO logger_File - Scenario Login to Retail Site with multiple users Started 
+2020-10-15 14:33:03,408 [main] INFO logger_File - Retail page is opened
+2020-10-15 14:33:03,445 [main] INFO logger_File - Page title  is verified
+2020-10-15 14:33:04,946 [main] INFO logger_File - User click on My Account
+2020-10-15 14:33:05,390 [main] INFO logger_File - User click on Login
+2020-10-15 14:33:09,216 [main] INFO logger_File - User enter email address
+2020-10-15 14:33:09,315 [main] INFO logger_File - User enter password
+2020-10-15 14:33:11,086 [main] INFO logger_File - User click on Login button
+2020-10-15 14:33:12,883 [main] INFO logger_File - Login to Retail Site with multiple users   passed
+2020-10-15 14:33:12,903 [main] INFO logger_File - Scenario Login to Retail Site with multiple users Started 
+2020-10-15 14:33:19,872 [main] INFO logger_File - Retail page is opened
+2020-10-15 14:33:19,890 [main] INFO logger_File - Page title  is verified
+2020-10-15 14:33:21,269 [main] INFO logger_File - User click on My Account
+2020-10-15 14:33:21,667 [main] INFO logger_File - User click on Login
+2020-10-15 14:33:25,690 [main] INFO logger_File - User enter email address
+2020-10-15 14:33:25,781 [main] INFO logger_File - User enter password
+2020-10-15 14:33:27,154 [main] INFO logger_File - User click on Login button
+2020-10-15 14:33:29,281 [main] INFO logger_File - Login to Retail Site with multiple users   passed
+2020-10-15 14:33:29,294 [main] INFO logger_File - Scenario Login to Retail Site with multiple users Started 
+2020-10-15 14:33:36,368 [main] INFO logger_File - Retail page is opened
+2020-10-15 14:33:36,388 [main] INFO logger_File - Page title  is verified
+2020-10-15 14:33:37,777 [main] INFO logger_File - User click on My Account
+2020-10-15 14:33:38,245 [main] INFO logger_File - User click on Login
+2020-10-15 14:33:42,143 [main] INFO logger_File - User enter email address
+2020-10-15 14:33:42,290 [main] INFO logger_File - User enter password
+2020-10-15 14:33:44,065 [main] INFO logger_File - User click on Login button
+2020-10-15 14:33:45,921 [main] INFO logger_File - Login to Retail Site with multiple users   passed
+2020-10-15 17:04:58,973 [main] INFO logger_File - Scenario Login to Retail Site with multiple users Started 
+2020-10-15 17:05:08,928 [main] INFO logger_File - Retail page is opened
+2020-10-15 17:05:08,943 [main] INFO logger_File - Page title  is verified
+2020-10-15 17:05:10,546 [main] INFO logger_File - User click on My Account
+2020-10-15 17:05:10,982 [main] INFO logger_File - User click on Login
+2020-10-15 17:05:26,468 [main] INFO logger_File - Scenario Login to Retail Site with multiple users Started 
+2020-10-15 17:06:02,858 [main] INFO logger_File - Scenario Login to Retail Site with multiple users Started 
+2020-10-15 17:06:10,300 [main] INFO logger_File - Retail page is opened
+2020-10-15 17:06:10,310 [main] INFO logger_File - Page title  is verified
+2020-10-15 17:06:11,608 [main] INFO logger_File - User click on My Account
+2020-10-15 17:06:12,011 [main] INFO logger_File - User click on Login
+2020-10-15 17:06:15,899 [main] INFO logger_File - User enter email address
+2020-10-15 17:06:16,037 [main] INFO logger_File - User enter password
+2020-10-15 17:06:17,536 [main] INFO logger_File - User click on Login button
+2020-10-15 17:06:19,270 [main] INFO logger_File - Login to Retail Site with multiple users   passed
+2020-10-19 12:36:37,807 [main] INFO logger_File - Scenario Login to Retail Site with multiple users Started 
+2020-10-19 12:36:54,679 [main] INFO logger_File - Retail page is opened
+2020-10-19 12:36:54,695 [main] INFO logger_File - Page title  is verified
+2020-10-19 12:36:56,593 [main] INFO logger_File - User click on My Account
+2020-10-19 12:36:57,460 [main] INFO logger_File - User click on Login
+2020-10-19 12:37:01,350 [main] INFO logger_File - User enter email address
+2020-10-19 12:37:01,634 [main] INFO logger_File - User enter password
+2020-10-19 12:37:03,311 [main] INFO logger_File - User click on Login button
+2020-10-19 12:37:05,191 [main] INFO logger_File - Login to Retail Site with multiple users   passed
+2020-10-19 12:37:05,196 [main] INFO logger_File - Scenario Login to Retail Site with multiple users Started 
+2020-10-19 12:37:12,781 [main] INFO logger_File - Retail page is opened
+2020-10-19 12:37:12,795 [main] INFO logger_File - Page title  is verified
+2020-10-19 12:37:14,782 [main] INFO logger_File - User click on My Account
+2020-10-19 12:37:15,446 [main] INFO logger_File - User click on Login
+2020-10-19 12:37:19,153 [main] INFO logger_File - User enter email address
+2020-10-19 12:37:19,329 [main] INFO logger_File - User enter password
+2020-10-19 12:37:20,744 [main] INFO logger_File - User click on Login button
+2020-10-19 12:37:22,528 [main] INFO logger_File - Login to Retail Site with multiple users   passed
+2020-10-19 12:37:22,543 [main] INFO logger_File - Scenario Login to Retail Site with multiple users Started 
+2020-10-19 12:37:30,049 [main] INFO logger_File - Retail page is opened
+2020-10-19 12:37:30,100 [main] INFO logger_File - Page title  is verified
+2020-10-19 12:37:31,896 [main] INFO logger_File - User click on My Account
+2020-10-19 12:37:33,210 [main] INFO logger_File - User click on Login
+2020-10-19 12:37:37,067 [main] INFO logger_File - User enter email address
+2020-10-19 12:37:37,288 [main] INFO logger_File - User enter password
+2020-10-19 12:37:38,972 [main] INFO logger_File - User click on Login button
+2020-10-19 12:37:40,783 [main] INFO logger_File - Login to Retail Site with multiple users   passed
+2020-10-19 12:39:02,924 [main] INFO logger_File - Scenario Login to Retail Site with multiple users Started 
+2020-10-19 12:39:13,719 [main] INFO logger_File - Retail page is opened
+2020-10-19 12:39:13,733 [main] INFO logger_File - Page title  is verified
+2020-10-19 12:39:15,568 [main] INFO logger_File - User click on My Account
+2020-10-19 12:39:16,353 [main] INFO logger_File - User click on Login
+2020-10-19 12:39:20,185 [main] INFO logger_File - User enter email address
+2020-10-19 12:39:20,312 [main] INFO logger_File - User enter password
+2020-10-19 12:39:21,566 [main] INFO logger_File - User click on Login button
+2020-10-19 12:39:23,378 [main] INFO logger_File - Login to Retail Site with multiple users   passed
+2020-10-19 12:39:23,383 [main] INFO logger_File - Scenario Login to Retail Site with multiple users Started 
+2020-10-19 12:39:31,411 [main] INFO logger_File - Retail page is opened
+2020-10-19 12:39:31,442 [main] INFO logger_File - Page title  is verified
+2020-10-19 12:39:33,613 [main] INFO logger_File - User click on My Account
+2020-10-19 12:39:34,475 [main] INFO logger_File - User click on Login
+2020-10-19 12:39:38,267 [main] INFO logger_File - User enter email address
+2020-10-19 12:39:38,414 [main] INFO logger_File - User enter password
+2020-10-19 12:39:39,745 [main] INFO logger_File - User click on Login button
+2020-10-19 12:39:41,519 [main] INFO logger_File - Login to Retail Site with multiple users   passed
+2020-10-19 12:39:41,533 [main] INFO logger_File - Scenario Login to Retail Site with multiple users Started 
+2020-10-19 12:39:49,285 [main] INFO logger_File - Retail page is opened
+2020-10-19 12:39:49,307 [main] INFO logger_File - Page title  is verified
+2020-10-19 12:39:50,974 [main] INFO logger_File - User click on My Account
+2020-10-19 12:39:51,724 [main] INFO logger_File - User click on Login
+2020-10-19 12:39:55,533 [main] INFO logger_File - User enter email address
+2020-10-19 12:39:55,743 [main] INFO logger_File - User enter password
+2020-10-19 12:39:57,055 [main] INFO logger_File - User click on Login button
+2020-10-19 12:39:58,824 [main] INFO logger_File - Login to Retail Site with multiple users   passed
+2020-10-19 12:42:24,195 [main] INFO logger_File - Scenario Login to Retail Site with multiple users Started 
+2020-10-19 12:42:34,827 [main] INFO logger_File - Retail page is opened
+2020-10-19 12:42:34,845 [main] INFO logger_File - Page title  is verified
+2020-10-19 12:42:36,831 [main] INFO logger_File - User click on My Account
+2020-10-19 12:42:37,595 [main] INFO logger_File - User click on Login
+2020-10-19 12:42:41,447 [main] INFO logger_File - User enter email address
+2020-10-19 12:42:41,641 [main] INFO logger_File - User enter password
+2020-10-19 12:42:43,380 [main] INFO logger_File - User click on Login button
+2020-10-19 12:42:45,177 [main] INFO logger_File - Login to Retail Site with multiple users   passed
+2020-10-19 12:42:45,186 [main] INFO logger_File - Scenario Login to Retail Site with multiple users Started 
+2020-10-19 12:42:53,200 [main] INFO logger_File - Retail page is opened
+2020-10-19 12:42:53,209 [main] INFO logger_File - Page title  is verified
+2020-10-19 12:42:54,673 [main] INFO logger_File - User click on My Account
+2020-10-19 12:42:55,493 [main] INFO logger_File - User click on Login
+2020-10-19 12:42:59,337 [main] INFO logger_File - User enter email address
+2020-10-19 12:42:59,501 [main] INFO logger_File - User enter password
+2020-10-19 12:43:00,889 [main] INFO logger_File - User click on Login button
+2020-10-19 12:43:02,723 [main] INFO logger_File - Login to Retail Site with multiple users   passed
+2020-10-19 12:43:02,727 [main] INFO logger_File - Scenario Login to Retail Site with multiple users Started 
+2020-10-19 12:43:10,127 [main] INFO logger_File - Retail page is opened
+2020-10-19 12:43:10,141 [main] INFO logger_File - Page title  is verified
+2020-10-19 12:43:11,802 [main] INFO logger_File - User click on My Account
+2020-10-19 12:43:12,520 [main] INFO logger_File - User click on Login
+2020-10-19 12:43:16,410 [main] INFO logger_File - User enter email address
+2020-10-19 12:43:16,539 [main] INFO logger_File - User enter password
+2020-10-19 12:43:18,187 [main] INFO logger_File - User click on Login button
+2020-10-19 12:43:20,085 [main] INFO logger_File - Login to Retail Site with multiple users   passed
+2020-10-19 12:47:44,548 [main] INFO logger_File - Scenario Login to MyAccount Started 
+2020-10-19 12:47:55,867 [main] INFO logger_File - Retail page is opened
+2020-10-19 12:47:55,899 [main] INFO logger_File - Page title  is verified
+2020-10-19 12:47:57,219 [main] INFO logger_File - User click on My Account
+2020-10-19 12:47:58,045 [main] INFO logger_File - User click on Login
+2020-10-19 12:48:01,916 [main] INFO logger_File - User enter email address
+2020-10-19 12:48:02,069 [main] INFO logger_File - User enter password
+2020-10-19 12:48:03,805 [main] INFO logger_File - User click on Login button
+2020-10-19 12:48:05,672 [main] INFO logger_File - Login to MyAccount   passed
+2020-10-19 12:49:43,429 [main] INFO logger_File - Scenario Login to MyAccount Started 
+2020-10-19 12:49:54,032 [main] INFO logger_File - Retail page is opened
+2020-10-19 12:49:54,069 [main] INFO logger_File - Page title  is verified
+2020-10-19 12:49:55,808 [main] INFO logger_File - User click on My Account
+2020-10-19 12:49:56,857 [main] INFO logger_File - User click on Login
+2020-10-19 12:50:00,611 [main] INFO logger_File - User enter email address
+2020-10-19 12:50:00,744 [main] INFO logger_File - User enter password
+2020-10-19 12:50:02,227 [main] INFO logger_File - User click on Login button
+2020-10-19 12:50:04,047 [main] INFO logger_File - Login to MyAccount   passed
+2020-10-19 12:50:56,391 [main] INFO logger_File - Scenario Login to MyAccount Started 
+2020-10-19 12:51:06,723 [main] INFO logger_File - Retail page is opened
+2020-10-19 12:51:06,787 [main] INFO logger_File - Page title  is verified
+2020-10-19 12:51:08,721 [main] INFO logger_File - User click on My Account
+2020-10-19 12:51:09,805 [main] INFO logger_File - User click on Login
+2020-10-19 12:51:13,658 [main] INFO logger_File - User enter email address
+2020-10-19 12:51:13,778 [main] INFO logger_File - User enter password
+2020-10-19 12:51:15,328 [main] INFO logger_File - User click on Login button
+2020-10-19 12:51:17,144 [main] INFO logger_File - Login to MyAccount   passed
+2020-10-19 16:46:39,620 [main] INFO logger_File - Scenario Register Account for new Retail user Started 
+2020-10-19 16:46:48,712 [main] INFO logger_File - Retail page is opened
+2020-10-19 16:46:48,738 [main] INFO logger_File - Page title  is verified
+2020-10-19 16:46:50,404 [main] INFO logger_File - User click on My Account
+2020-10-19 16:46:51,254 [main] INFO logger_File - user click on Register
+2020-10-19 16:46:52,197 [main] INFO logger_File - user completed Register form with the required information
+2020-10-19 16:46:54,943 [main] INFO logger_File - Register Account for new Retail user   failed
+2020-10-19 16:48:06,265 [main] INFO logger_File - Scenario Register Account for new Retail user Started 
+2020-10-19 16:48:15,994 [main] INFO logger_File - Retail page is opened
+2020-10-19 16:48:16,013 [main] INFO logger_File - Page title  is verified
+2020-10-19 16:48:17,382 [main] INFO logger_File - User click on My Account
+2020-10-19 16:48:18,232 [main] INFO logger_File - user click on Register
+2020-10-19 16:48:19,172 [main] INFO logger_File - user completed Register form with the required information
+2020-10-19 16:48:21,955 [main] INFO logger_File - Register Account for new Retail user   failed
+2020-10-19 16:54:01,068 [main] INFO logger_File - Scenario Register Account for new Retail user Started 
+2020-10-19 16:54:10,926 [main] INFO logger_File - Retail page is opened
+2020-10-19 16:54:10,951 [main] INFO logger_File - Page title  is verified
+2020-10-19 16:54:12,080 [main] INFO logger_File - User click on My Account
+2020-10-19 16:54:14,175 [main] INFO logger_File - Register Account for new Retail user   failed
+2020-10-19 16:56:08,306 [main] INFO logger_File - Scenario Register Account for new Retail user Started 
+2020-10-19 16:56:17,870 [main] INFO logger_File - Retail page is opened
+2020-10-19 16:56:17,898 [main] INFO logger_File - Page title  is verified
+2020-10-19 16:56:19,330 [main] INFO logger_File - User click on My Account
+2020-10-19 16:56:21,026 [main] INFO logger_File - Register Account for new Retail user   failed
+2020-10-19 16:57:54,755 [main] INFO logger_File - Scenario Register Account for new Retail user Started 
+2020-10-19 16:58:05,018 [main] INFO logger_File - Retail page is opened
+2020-10-19 16:58:05,059 [main] INFO logger_File - Page title  is verified
+2020-10-19 16:58:05,940 [main] INFO logger_File - User click on My Account
+2020-10-19 16:58:07,229 [main] INFO logger_File - user clicked on Register
+2020-10-19 16:58:08,118 [main] INFO logger_File - user completed Register form with required information
+2020-10-19 16:58:48,414 [main] INFO logger_File - Scenario Register Account for new Retail user Started 
+2020-10-19 16:58:58,444 [main] INFO logger_File - Retail page is opened
+2020-10-19 16:58:58,469 [main] INFO logger_File - Page title  is verified
+2020-10-19 16:59:00,168 [main] INFO logger_File - User click on My Account
+2020-10-19 16:59:01,403 [main] INFO logger_File - user clicked on Register
+2020-10-19 16:59:02,712 [main] INFO logger_File - user completed Register form with required information
+2020-10-19 16:59:09,500 [main] INFO logger_File - Account was created Successfully
+2020-10-19 16:59:11,190 [main] INFO logger_File - Register Account for new Retail user   passed
+2020-10-21 16:50:23,519 [main] INFO logger_File - Scenario Execute all information from Actor Table Started 
+2020-10-21 16:50:32,606 [main] INFO logger_File - Execute all information from Actor Table   undefined
+2020-10-21 16:59:30,559 [main] INFO logger_File - Scenario Execute all information from Actor Table Started 
+2020-10-21 16:59:39,606 [main] INFO logger_File - Connection has been established.
+2020-10-21 16:59:39,699 [main] INFO logger_File - select * from public.actor : has been executed.
+2020-10-21 16:59:39,820 [main] INFO logger_File - ResultSet is stored in a scv file in the Outcome folder
+2020-10-21 16:59:39,822 [main] INFO logger_File - DB connection has been closed.
+2020-10-21 16:59:42,507 [main] INFO logger_File - Execute all information from Actor Table   passed
+2020-10-22 13:04:22,507 [main] INFO logger_File - Scenario Execute all information from Actor Table Started 
+2020-10-22 13:04:30,334 [main] INFO logger_File - Connection has been established.
+2020-10-22 13:04:30,443 [main] INFO logger_File - select * from public.actor : has been executed.
+2020-10-22 13:04:30,485 [main] INFO logger_File - ResultSet is stored in a scv file in the Outcome folder
+2020-10-22 13:04:30,486 [main] INFO logger_File - DB connection has been closed.
+2020-10-22 13:04:31,228 [main] INFO logger_File - Execute all information from Actor Table   passed
+2020-10-22 13:11:35,370 [main] INFO logger_File - Scenario Execute all information from Actor Table Started 
+2020-10-22 13:11:42,461 [main] INFO logger_File - Connection has been established.
+2020-10-22 13:11:42,556 [main] INFO logger_File - select * from public.actor : has been executed.
+2020-10-22 13:11:42,608 [main] INFO logger_File - ResultSet is stored in a scv file in the Outcome folder
+2020-10-22 13:11:42,609 [main] INFO logger_File - DB connection has been closed.
+2020-10-22 13:11:43,431 [main] INFO logger_File - Execute all information from Actor Table   passed
+2020-10-22 13:23:29,566 [main] INFO logger_File - Scenario Execute all information from Actor Table Started 
+2020-10-22 13:23:36,716 [main] INFO logger_File - Connection has been established.
+2020-10-22 13:23:36,801 [main] INFO logger_File - select * from public.actor : has been executed.
+2020-10-22 13:23:36,858 [main] INFO logger_File - ResultSet is stored in a scv file in the Outcome folder
+2020-10-22 13:23:36,859 [main] INFO logger_File - DB connection has been closed.
+2020-10-22 13:23:37,593 [main] INFO logger_File - Execute all information from Actor Table   passed
+2020-10-22 13:26:18,781 [main] INFO logger_File - Scenario Execute all information from Actor Table Started 
+2020-10-22 13:26:26,057 [main] INFO logger_File - Connection has been established.
+2020-10-22 13:26:26,149 [main] INFO logger_File - select * from public.actor : has been executed.
+2020-10-22 13:26:26,199 [main] INFO logger_File - ResultSet is stored in a scv file in the Outcome folder
+2020-10-22 13:26:26,201 [main] INFO logger_File - DB connection has been closed.
+2020-10-22 13:26:26,959 [main] INFO logger_File - Execute all information from Actor Table   passed
+2020-10-22 13:38:17,363 [main] INFO logger_File - Scenario Execute all information from Actor Table Started 
+2020-10-22 13:38:24,395 [main] INFO logger_File - Connection has been established.
+2020-10-22 13:38:24,481 [main] INFO logger_File - select * from public.actor : has been executed.
+2020-10-22 13:38:24,537 [main] INFO logger_File - ResultSet is stored in a scv file in the Outcome folder
+2020-10-22 13:38:24,545 [main] INFO logger_File - DB connection has been closed.
+2020-10-22 13:38:25,301 [main] INFO logger_File - Execute all information from Actor Table   passed
+2020-10-22 13:41:55,483 [main] INFO logger_File - Scenario Execute all information from Actor Table Started 
+2020-10-22 13:42:02,529 [main] INFO logger_File - Connection has been established.
+2020-10-22 13:42:02,621 [main] INFO logger_File - select * from public.actor : has been executed.
+2020-10-22 13:42:02,661 [main] INFO logger_File - ResultSet is stored in a scv file in the Outcome folder
+2020-10-22 13:42:02,661 [main] INFO logger_File - DB connection has been closed.
+2020-10-22 13:42:03,396 [main] INFO logger_File - Execute all information from Actor Table   passed
+2020-10-22 16:42:34,639 [main] INFO logger_File - Scenario Execute all information from Actor Table Started 
+2020-10-22 16:42:42,625 [main] INFO logger_File - Connection has been established.
+2020-10-22 16:42:42,718 [main] INFO logger_File - select * from public.actor : has been executed.
+2020-10-22 16:42:42,766 [main] INFO logger_File - ResultSet is stored in a scv file in the Outcome folder
+2020-10-22 16:42:42,766 [main] INFO logger_File - DB connection has been closed.
+2020-10-22 16:42:43,489 [main] INFO logger_File - Execute all information from Actor Table   passed
+2020-10-22 16:43:04,977 [main] INFO logger_File - Scenario Execute all information from Actor Table Started 
+2020-10-22 16:43:12,101 [main] INFO logger_File - Connection has been established.
+2020-10-22 16:43:12,128 [main] INFO logger_File - select * from public.actor : has been executed.
+2020-10-22 16:43:12,176 [main] INFO logger_File - ResultSet is stored in a scv file in the Outcome folder
+2020-10-22 16:43:12,176 [main] INFO logger_File - DB connection has been closed.
+2020-10-22 16:43:14,518 [main] INFO logger_File - Execute all information from Actor Table   passed
+2020-10-22 16:43:55,241 [main] INFO logger_File - Scenario Register Account for new Retail user Started 
+2020-10-22 16:44:05,670 [main] INFO logger_File - Retail page is opened
+2020-10-22 16:44:05,701 [main] INFO logger_File - Page title  is verified
+2020-10-22 16:44:06,685 [main] INFO logger_File - User click on My Account
+2020-10-22 16:44:07,414 [main] INFO logger_File - user clicked on Register
+2020-10-22 16:44:08,230 [main] INFO logger_File - user completed Register form with required information
+2020-10-22 16:45:28,155 [main] INFO logger_File - Scenario Register Account for new Retail user Started 
+2020-10-22 16:45:36,809 [main] INFO logger_File - Retail page is opened
+2020-10-22 16:45:36,830 [main] INFO logger_File - Page title  is verified
+2020-10-22 16:45:37,927 [main] INFO logger_File - User click on My Account
+2020-10-22 16:45:38,904 [main] INFO logger_File - user clicked on Register
+2020-10-22 16:45:39,724 [main] INFO logger_File - user completed Register form with required information
+2020-10-22 16:45:46,718 [main] INFO logger_File - Account was created Successfully
+2020-10-22 16:45:48,144 [main] INFO logger_File - Register Account for new Retail user   passed
+2020-10-22 16:47:32,409 [main] INFO logger_File - Scenario Register Account for new Retail user Started 
+2020-10-22 16:47:41,536 [main] INFO logger_File - Retail page is opened
+2020-10-22 16:47:41,548 [main] INFO logger_File - Page title  is verified
+2020-10-22 16:47:44,089 [main] INFO logger_File - User click on My Account
+2020-10-22 16:47:45,109 [main] INFO logger_File - user clicked on Register
+2020-10-22 16:47:46,019 [main] INFO logger_File - user completed Register form with required information
+2020-10-22 16:48:38,489 [main] INFO logger_File - Register Account for new Retail user   failed
+2020-10-22 20:03:21,881 [main] INFO logger_File - Scenario Register Account for new Retail user Started 
+2020-10-22 20:03:31,249 [main] INFO logger_File - Retail page is opened
+2020-10-22 20:03:31,286 [main] INFO logger_File - Page title  is verified
+2020-10-22 20:03:32,508 [main] INFO logger_File - User click on My Account
+2020-10-22 20:03:33,483 [main] INFO logger_File - user clicked on Register
+2020-10-22 20:03:34,164 [main] INFO logger_File - user completed Register form with required information
+2020-10-22 20:04:20,085 [main] INFO logger_File - Scenario Register Account for new Retail user Started 
+2020-10-22 20:04:28,738 [main] INFO logger_File - Retail page is opened
+2020-10-22 20:04:28,758 [main] INFO logger_File - Page title  is verified
+2020-10-22 20:04:30,119 [main] INFO logger_File - User click on My Account
+2020-10-22 20:04:30,871 [main] INFO logger_File - user clicked on Register
+2020-10-22 20:04:31,775 [main] INFO logger_File - user completed Register form with required information
+2020-10-22 20:04:38,604 [main] INFO logger_File - Account was created Successfully
+2020-10-22 20:04:39,977 [main] INFO logger_File - Register Account for new Retail user   passed
+2020-10-23 14:49:08,845 [main] INFO logger_File - Scenario Login to MyAccount Started 
+2020-10-23 14:49:17,972 [main] INFO logger_File - Retail page is opened
+2020-10-23 14:49:18,006 [main] INFO logger_File - Page title  is verified
+2020-10-23 14:49:19,118 [main] INFO logger_File - User click on My Account
+2020-10-23 14:49:19,678 [main] INFO logger_File - User click on Login
+2020-10-23 14:49:23,618 [main] INFO logger_File - User enter email address
+2020-10-23 14:49:23,747 [main] INFO logger_File - User enter password
+2020-10-23 14:49:25,460 [main] INFO logger_File - User click on Login button
+2020-10-23 14:49:27,056 [main] INFO logger_File - Login to MyAccount   passed
+2020-10-23 15:25:05,313 [main] INFO logger_File - Scenario Log  out from MyAccount Started 
+2020-10-23 15:25:13,878 [main] INFO logger_File - Retail page is opened
+2020-10-23 15:25:13,891 [main] INFO logger_File - Page title  is verified
+2020-10-23 15:25:15,162 [main] INFO logger_File - User click on My Account
+2020-10-23 15:25:15,596 [main] INFO logger_File - User click on Login
+2020-10-23 15:25:19,408 [main] INFO logger_File - User enter email address
+2020-10-23 15:25:19,555 [main] INFO logger_File - User enter password
+2020-10-23 15:25:20,789 [main] INFO logger_File - User click on Login button
+2020-10-23 15:25:21,563 [main] INFO logger_File - User click on My Account
+2020-10-23 15:25:28,554 [main] INFO logger_File - Log  out from MyAccount   passed
+2020-10-23 15:45:02,280 [main] INFO logger_File - Scenario Log  out from MyAccount Started 
+2020-10-23 15:45:10,703 [main] INFO logger_File - Retail page is opened
+2020-10-23 15:45:10,730 [main] INFO logger_File - Page title  is verified
+2020-10-23 15:45:12,164 [main] INFO logger_File - User click on My Account
+2020-10-23 15:45:12,587 [main] INFO logger_File - User click on Login
+2020-10-23 15:45:16,373 [main] INFO logger_File - User enter email address
+2020-10-23 15:45:16,492 [main] INFO logger_File - User enter password
+2020-10-23 15:45:17,822 [main] INFO logger_File - User click on Login button
+2020-10-23 15:45:18,618 [main] INFO logger_File - User click on My Account
+2020-10-23 15:45:25,679 [main] INFO logger_File - Log  out from MyAccount   undefined
+2020-10-23 15:53:07,282 [main] INFO logger_File - Scenario Log  out from MyAccount Started 
+2020-10-23 15:53:16,531 [main] INFO logger_File - Retail page is opened
+2020-10-23 15:53:16,558 [main] INFO logger_File - Page title  is verified
+2020-10-23 15:53:17,582 [main] INFO logger_File - User click on My Account
+2020-10-23 15:53:18,020 [main] INFO logger_File - User click on Login
+2020-10-23 15:53:21,844 [main] INFO logger_File - User enter email address
+2020-10-23 15:53:21,960 [main] INFO logger_File - User enter password
+2020-10-23 15:53:23,244 [main] INFO logger_File - User click on Login button
+2020-10-23 15:53:24,049 [main] INFO logger_File - User click on My Account
+2020-10-23 15:53:36,807 [main] INFO logger_File - Log  out from MyAccount   failed
+2020-10-23 16:01:28,970 [main] INFO logger_File - Scenario Log  out from MyAccount Started 
+2020-10-23 16:01:38,285 [main] INFO logger_File - Retail page is opened
+2020-10-23 16:01:38,305 [main] INFO logger_File - Page title  is verified
+2020-10-23 16:01:39,543 [main] INFO logger_File - User click on My Account
+2020-10-23 16:01:42,984 [main] INFO logger_File - User click on Login
+2020-10-23 16:01:46,767 [main] INFO logger_File - User enter email address
+2020-10-23 16:01:46,895 [main] INFO logger_File - User enter password
+2020-10-23 16:01:48,170 [main] INFO logger_File - User click on Login button
+2020-10-23 16:01:48,968 [main] INFO logger_File - User click on My Account
+2020-10-23 16:02:07,320 [main] INFO logger_File - Log  out from MyAccount   passed
+2020-10-23 16:06:01,597 [main] INFO logger_File - Scenario Log  out from MyAccount Started 
+2020-10-23 16:06:10,888 [main] INFO logger_File - Retail page is opened
+2020-10-23 16:06:10,899 [main] INFO logger_File - Page title  is verified
+2020-10-23 16:06:12,186 [main] INFO logger_File - User click on My Account
+2020-10-23 16:06:12,608 [main] INFO logger_File - User click on Login
+2020-10-23 16:06:16,363 [main] INFO logger_File - User enter email address
+2020-10-23 16:06:16,470 [main] INFO logger_File - User enter password
+2020-10-23 16:06:17,838 [main] INFO logger_File - User click on Login button
+2020-10-23 16:06:18,717 [main] INFO logger_File - User click on My Account
+2020-10-23 16:06:37,818 [main] INFO logger_File - Log  out from MyAccount   passed
+2020-10-23 22:06:25,414 [main] INFO logger_File - Scenario Add products to shopping cart Started 
+2020-10-23 22:06:35,030 [main] INFO logger_File - Retail page is opened
+2020-10-23 22:06:35,057 [main] INFO logger_File - Page title  is verified
+2020-10-23 22:06:36,209 [main] INFO logger_File - Mouse hovers over Desktops dropdown menu
+2020-10-23 22:06:37,163 [main] INFO logger_File - Add products to shopping cart   failed
+2020-10-23 22:12:45,553 [main] INFO logger_File - Scenario Add products to shopping cart Started 
+2020-10-23 22:12:52,742 [main] INFO logger_File - Mouse hovers over Desktops dropdown menu
+2020-10-23 22:12:54,474 [main] INFO logger_File - Add products to shopping cart   failed
+2020-10-24 08:46:10,393 [main] INFO logger_File - Scenario Add products to shopping cart Started 
+2020-10-24 08:46:17,943 [main] INFO logger_File - Mouse hovers over Desktops dropdown menu
+2020-10-24 08:46:18,787 [main] INFO logger_File - Add products to shopping cart   failed
+2020-10-24 08:46:46,615 [main] INFO logger_File - Scenario Add products to shopping cart Started 
+2020-10-24 08:46:54,151 [main] INFO logger_File - Mouse hovers over Desktops dropdown menu
+2020-10-24 08:46:56,174 [main] INFO logger_File - Add products to shopping cart   failed
+2020-10-24 12:03:14,610 [main] INFO logger_File - Scenario Add products to shopping cart Started 
+2020-10-24 12:03:23,909 [main] INFO logger_File - Verify if user is on Retail Page
+2020-10-24 12:03:23,924 [main] INFO logger_File - Page title  is verified
+2020-10-24 12:03:24,964 [main] INFO logger_File - Mouse hovers over the Desktops menu
+2020-10-24 12:03:25,963 [main] INFO logger_File - Click on the PC option
+2020-10-24 12:03:27,640 [main] INFO logger_File - Add products to shopping cart   passed
+2020-10-24 12:05:08,542 [main] INFO logger_File - Scenario Add products to shopping cart Started 
+2020-10-24 12:05:17,503 [main] INFO logger_File - Verify if user is on Retail Page
+2020-10-24 12:05:17,520 [main] INFO logger_File - Page title  is verified
+2020-10-24 12:05:18,755 [main] INFO logger_File - Mouse hovers over the Desktops menu
+2020-10-24 12:05:19,692 [main] INFO logger_File - Click on the PC option
+2020-10-24 12:05:24,480 [main] INFO logger_File - Add products to shopping cart   passed
+2020-10-24 12:06:32,273 [main] INFO logger_File - Scenario Add products to shopping cart Started 
+2020-10-24 12:06:40,833 [main] INFO logger_File - Verify if user is on Retail Page
+2020-10-24 12:06:40,851 [main] INFO logger_File - Page title  is verified
+2020-10-24 12:06:42,166 [main] INFO logger_File - Mouse hovers over the Desktops menu
+2020-10-24 12:06:43,106 [main] INFO logger_File - Click on the PC option
+2020-10-24 12:06:48,051 [main] INFO logger_File - Add products to shopping cart   passed
+2020-10-24 12:09:49,600 [main] INFO logger_File - Scenario Add products to shopping cart Started 
+2020-10-24 12:09:58,399 [main] INFO logger_File - Verify if user is on Retail Page
+2020-10-24 12:09:58,421 [main] INFO logger_File - Page title  is verified
+2020-10-24 12:09:59,724 [main] INFO logger_File - Mouse hovers over the Desktops menu
+2020-10-24 12:10:00,709 [main] INFO logger_File - Click on the PC option
+2020-10-24 12:10:05,630 [main] INFO logger_File - Add products to shopping cart   passed
+2020-10-24 12:12:49,222 [main] INFO logger_File - Scenario Add products to shopping cart Started 
+2020-10-24 12:12:58,960 [main] INFO logger_File - Verify if user is on Retail Page
+2020-10-24 12:12:58,986 [main] INFO logger_File - Page title  is verified
+2020-10-24 12:12:59,830 [main] INFO logger_File - Mouse hovers over the Desktops menu
+2020-10-24 12:13:00,919 [main] INFO logger_File - Click on the PC option
+2020-10-24 12:13:07,098 [main] INFO logger_File - Add products to shopping cart   passed
+2020-10-24 12:13:56,490 [main] INFO logger_File - Scenario Add products to shopping cart Started 
+2020-10-24 12:14:05,380 [main] INFO logger_File - Verify if user is on Retail Page
+2020-10-24 12:14:05,402 [main] INFO logger_File - Page title  is verified
+2020-10-24 12:14:06,438 [main] INFO logger_File - Mouse hovers over the Desktops menu
+2020-10-24 12:14:07,342 [main] INFO logger_File - Click on the PC option
+2020-10-24 12:14:12,079 [main] INFO logger_File - Add products to shopping cart   passed
+2020-10-24 12:17:27,556 [main] INFO logger_File - Scenario Add products to shopping cart Started 
+2020-10-24 12:17:36,655 [main] INFO logger_File - Verify if user is on Retail Page
+2020-10-24 12:17:36,675 [main] INFO logger_File - Page title  is verified
+2020-10-24 12:17:37,769 [main] INFO logger_File - Mouse hovers over the Desktops menu
+2020-10-24 12:17:38,676 [main] INFO logger_File - Click on the PC option
+2020-10-24 12:17:46,697 [main] INFO logger_File - Add products to shopping cart   passed
+2020-10-24 12:23:20,699 [main] INFO logger_File - Scenario Add products to shopping cart Started 
+2020-10-24 12:23:29,538 [main] INFO logger_File - Verify if user is on Retail Page
+2020-10-24 12:23:29,550 [main] INFO logger_File - Page title  is verified
+2020-10-24 12:23:30,639 [main] INFO logger_File - Mouse hovers over the Desktops menu
+2020-10-24 12:23:31,538 [main] INFO logger_File - Click on the PC option
+2020-10-24 12:23:41,865 [main] INFO logger_File - Add products to shopping cart   passed
+2020-10-24 20:59:07,159 [main] INFO logger_File - Scenario Add products to shopping cart Started 
+2020-10-24 20:59:15,824 [main] INFO logger_File - Verify if user is on Retail Page
+2020-10-24 20:59:15,853 [main] INFO logger_File - Page title  is verified
+2020-10-24 20:59:16,905 [main] INFO logger_File - Mouse hovers over the Desktops menu
+2020-10-24 20:59:17,860 [main] INFO logger_File - Click on the PC option
+2020-10-24 20:59:27,107 [main] INFO logger_File - click on Add To Cart button
+2020-10-24 20:59:28,767 [main] INFO logger_File - Add products to shopping cart   undefined
+2020-10-24 21:01:24,998 [main] INFO logger_File - Scenario Add products to shopping cart Started 
+2020-10-24 21:01:34,225 [main] INFO logger_File - Verify if user is on Retail Page
+2020-10-24 21:01:34,248 [main] INFO logger_File - Page title  is verified
+2020-10-24 21:01:35,040 [main] INFO logger_File - Mouse hovers over the Desktops menu
+2020-10-24 21:01:35,994 [main] INFO logger_File - Click on the PC option
+2020-10-24 21:01:45,325 [main] INFO logger_File - click on Add To Cart button
+2020-10-24 21:01:46,883 [main] INFO logger_File - Add products to shopping cart   undefined
+2020-10-24 21:07:05,070 [main] INFO logger_File - Scenario Add products to shopping cart Started 
+2020-10-24 21:07:14,368 [main] INFO logger_File - Verify if user is on Retail Page
+2020-10-24 21:07:14,387 [main] INFO logger_File - Page title  is verified
+2020-10-24 21:07:15,318 [main] INFO logger_File - Mouse hovers over the Desktops menu
+2020-10-24 21:07:16,198 [main] INFO logger_File - Click on the PC option
+2020-10-24 21:07:25,593 [main] INFO logger_File - click on Add To Cart button
+2020-10-24 21:07:26,298 [main] INFO logger_File - Verifying multi-element success message
+2020-10-24 21:07:27,175 [main] INFO logger_File - Add products to shopping cart   failed
+2020-10-24 21:09:20,030 [main] INFO logger_File - Scenario Add products to shopping cart Started 
+2020-10-24 21:09:28,510 [main] INFO logger_File - Verify if user is on Retail Page
+2020-10-24 21:09:28,538 [main] INFO logger_File - Page title  is verified
+2020-10-24 21:09:29,450 [main] INFO logger_File - Mouse hovers over the Desktops menu
+2020-10-24 21:09:30,344 [main] INFO logger_File - Click on the PC option
+2020-10-24 21:09:39,707 [main] INFO logger_File - click on Add To Cart button
+2020-10-24 21:09:40,438 [main] INFO logger_File - Verifying multi-element success message
+2020-10-24 21:10:42,466 [main] INFO logger_File - Scenario Add products to shopping cart Started 
+2020-10-24 21:10:50,786 [main] INFO logger_File - Verify if user is on Retail Page
+2020-10-24 21:10:50,798 [main] INFO logger_File - Page title  is verified
+2020-10-24 21:10:51,846 [main] INFO logger_File - Mouse hovers over the Desktops menu
+2020-10-24 21:10:52,795 [main] INFO logger_File - Click on the PC option
+2020-10-24 21:11:02,257 [main] INFO logger_File - click on Add To Cart button
+2020-10-24 21:11:03,010 [main] INFO logger_File - Verifying multi-element success message
+2020-10-24 21:12:26,733 [main] INFO logger_File - Scenario Add products to shopping cart Started 
+2020-10-24 21:12:35,110 [main] INFO logger_File - Verify if user is on Retail Page
+2020-10-24 21:12:35,126 [main] INFO logger_File - Page title  is verified
+2020-10-24 21:12:36,226 [main] INFO logger_File - Mouse hovers over the Desktops menu
+2020-10-24 21:12:37,166 [main] INFO logger_File - Click on the PC option
+2020-10-24 21:12:46,585 [main] INFO logger_File - click on Add To Cart button
+2020-10-24 21:12:47,303 [main] INFO logger_File - Verifying multi-element success message
+2020-10-24 21:12:48,759 [main] INFO logger_File - Add products to shopping cart   passed
+2020-10-25 13:11:01,358 [main] INFO logger_File - Scenario Add products to shopping cart Started 
+2020-10-25 13:11:11,036 [main] INFO logger_File - Verify if user is on Retail Page
+2020-10-25 13:11:11,067 [main] INFO logger_File - Page title  is verified
+2020-10-25 13:11:12,648 [main] INFO logger_File - Mouse hovers over the Desktops menu
+2020-10-25 13:11:13,657 [main] INFO logger_File - Click on the Mac option
+2020-10-25 13:11:22,991 [main] INFO logger_File - click on Add To Cart button
+2020-10-25 13:11:23,778 [main] INFO logger_File - Verifying multi-element success message
+2020-10-25 13:14:08,170 [main] INFO logger_File - Scenario Add products to shopping cart Started 
+2020-10-25 13:15:01,425 [main] INFO logger_File - Add products to shopping cart   failed
+2020-10-25 13:15:59,676 [main] INFO logger_File - Scenario Add products to shopping cart Started 
+2020-10-25 13:16:08,615 [main] INFO logger_File - Verify if user is on Retail Page
+2020-10-25 13:16:08,637 [main] INFO logger_File - Page title  is verified
+2020-10-25 13:16:09,795 [main] INFO logger_File - Mouse hovers over the Desktops menu
+2020-10-25 13:16:10,804 [main] INFO logger_File - Click on the Mac option
+2020-10-25 13:16:20,213 [main] INFO logger_File - click on Add To Cart button
+2020-10-25 13:16:21,076 [main] INFO logger_File - Verifying multi-element success message
+2020-10-25 13:16:22,639 [main] INFO logger_File - Add products to shopping cart   passed
+2020-10-25 13:24:20,901 [main] INFO logger_File - Scenario Add products to shopping cart Started 
+2020-10-25 13:24:29,597 [main] INFO logger_File - Verify if user is on Retail Page
+2020-10-25 13:24:29,618 [main] INFO logger_File - Page title  is verified
+2020-10-25 13:24:30,804 [main] INFO logger_File - Mouse hovers over the Desktops menu
+2020-10-25 13:24:31,755 [main] INFO logger_File - Click on the Mac option
+2020-10-25 13:24:41,147 [main] INFO logger_File - click on Add To Cart button
+2020-10-25 13:24:41,972 [main] INFO logger_File - Verifying multi-element success message
+2020-10-25 13:24:43,501 [main] INFO logger_File - Add products to shopping cart   passed
+2020-10-25 13:25:56,177 [main] INFO logger_File - Scenario Add products to shopping cart Started 
+2020-10-25 13:26:05,037 [main] INFO logger_File - Verify if user is on Retail Page
+2020-10-25 13:26:05,058 [main] INFO logger_File - Page title  is verified
+2020-10-25 13:26:06,291 [main] INFO logger_File - Mouse hovers over the Desktops menu
+2020-10-25 13:26:07,272 [main] INFO logger_File - Click on the Mac option
+2020-10-25 13:26:16,969 [main] INFO logger_File - click on Add To Cart button
+2020-10-25 13:26:17,788 [main] INFO logger_File - Verifying multi-element success message
+2020-10-25 13:27:03,655 [main] INFO logger_File - Add products to shopping cart   failed
+2020-10-25 13:28:41,066 [main] INFO logger_File - Scenario Add products to shopping cart Started 
+2020-10-25 13:28:49,929 [main] INFO logger_File - Verify if user is on Retail Page
+2020-10-25 13:28:49,955 [main] INFO logger_File - Page title  is verified
+2020-10-25 13:28:51,019 [main] INFO logger_File - Mouse hovers over the Desktops menu
+2020-10-25 13:28:52,006 [main] INFO logger_File - Click on the Mac option
+2020-10-25 13:29:01,341 [main] INFO logger_File - click on Add To Cart button
+2020-10-25 13:29:02,263 [main] INFO logger_File - Verifying multi-element success message
+2020-10-25 13:29:48,123 [main] INFO logger_File - Add products to shopping cart   failed
+2020-10-25 19:21:29,557 [main] INFO logger_File - Scenario Add products to shopping cart Started 
+2020-10-25 19:21:38,069 [main] INFO logger_File - Verify if user is on Retail Page
+2020-10-25 19:21:38,081 [main] INFO logger_File - Page title  is verified
+2020-10-25 19:21:39,335 [main] INFO logger_File - Mouse hovers over the Desktops menu
+2020-10-25 19:21:40,264 [main] INFO logger_File - Click on the Mac option
+2020-10-25 19:23:29,831 [main] INFO logger_File - Scenario Add products to shopping cart Started 
+2020-10-25 19:23:38,969 [main] INFO logger_File - Verify if user is on Retail Page
+2020-10-25 19:23:38,994 [main] INFO logger_File - Page title  is verified
+2020-10-25 19:23:40,011 [main] INFO logger_File - Mouse hovers over the Desktops menu
+2020-10-25 19:23:41,063 [main] INFO logger_File - Click on the Mac option
+2020-10-25 19:23:50,665 [main] INFO logger_File - click on Add To Cart button
+2020-10-25 19:23:51,568 [main] INFO logger_File - Verifying multi-element success message
+2020-10-25 19:23:53,234 [main] INFO logger_File - Add products to shopping cart   passed
+2020-10-27 21:11:16,133 [main] INFO logger_File - Scenario Add products to shopping cart Started 
+2020-10-27 21:11:26,884 [main] INFO logger_File - Verify if user is on Retail Page
+2020-10-27 21:11:26,903 [main] INFO logger_File - Page title  is verified
+2020-10-27 21:11:27,804 [main] INFO logger_File - Mouse hovers over the Desktops menu
+2020-10-27 21:11:29,088 [main] INFO logger_File - Click on the Mac option
+2020-10-27 21:11:38,385 [main] INFO logger_File - click on Add To Cart button
+2020-10-27 21:11:39,167 [main] INFO logger_File - Verifying success message
+2020-10-27 21:11:40,182 [main] INFO logger_File - Add products to shopping cart   failed
+2020-10-27 21:21:11,473 [main] INFO logger_File - Scenario Add products to shopping cart Started 
+2020-10-27 21:21:20,670 [main] INFO logger_File - Verify if user is on Retail Page
+2020-10-27 21:21:20,690 [main] INFO logger_File - Page title  is verified
+2020-10-27 21:21:21,874 [main] INFO logger_File - Mouse hovers over the Desktops menu
+2020-10-27 21:21:22,889 [main] INFO logger_File - Click on the Mac option
+2020-10-27 21:21:32,363 [main] INFO logger_File - click on Add To Cart button
+2020-10-27 21:21:33,208 [main] INFO logger_File - Verifying success message
+2020-10-27 21:21:34,170 [main] INFO logger_File - Add products to shopping cart   failed
+2020-10-27 21:27:39,699 [main] INFO logger_File - Scenario Add products to shopping cart Started 
+2020-10-27 21:27:48,322 [main] INFO logger_File - Verify if user is on Retail Page
+2020-10-27 21:27:48,342 [main] INFO logger_File - Page title  is verified
+2020-10-27 21:27:49,730 [main] INFO logger_File - Mouse hovers over the Desktops menu
+2020-10-27 21:27:50,976 [main] INFO logger_File - Click on the Mac option
+2020-10-27 21:28:00,435 [main] INFO logger_File - click on Add To Cart button
+2020-10-27 21:28:02,200 [main] INFO logger_File - Add products to shopping cart   failed
+2020-10-27 21:39:52,311 [main] INFO logger_File - Scenario Add products to shopping cart Started 
+2020-10-27 21:40:00,800 [main] INFO logger_File - Verify if user is on Retail Page
+2020-10-27 21:40:00,816 [main] INFO logger_File - Page title  is verified
+2020-10-27 21:40:02,125 [main] INFO logger_File - Mouse hovers over the Desktops menu
+2020-10-27 21:40:03,119 [main] INFO logger_File - Click on the Mac option
+2020-10-27 21:40:12,457 [main] INFO logger_File - click on Add To Cart button
+2020-10-27 21:40:13,281 [main] INFO logger_File - Verifying success message
+2020-10-27 21:40:14,245 [main] INFO logger_File - Add products to shopping cart   failed
+2020-10-27 21:44:02,932 [main] INFO logger_File - Scenario Add products to shopping cart Started 
+2020-10-27 21:44:11,616 [main] INFO logger_File - Verify if user is on Retail Page
+2020-10-27 21:44:11,642 [main] INFO logger_File - Page title  is verified
+2020-10-27 21:44:13,145 [main] INFO logger_File - Mouse hovers over the Desktops menu
+2020-10-27 21:44:14,188 [main] INFO logger_File - Click on the Mac option
+2020-10-27 21:44:23,461 [main] INFO logger_File - click on Add To Cart button
+2020-10-27 21:44:24,292 [main] INFO logger_File - Verifying success message
+2020-10-27 21:44:25,844 [main] INFO logger_File - Add products to shopping cart   passed
+2020-10-27 21:48:47,702 [main] INFO logger_File - Scenario Add products to shopping cart Started 
+2020-10-27 21:48:56,554 [main] INFO logger_File - Verify if user is on Retail Page
+2020-10-27 21:48:56,577 [main] INFO logger_File - Page title  is verified
+2020-10-27 21:48:58,147 [main] INFO logger_File - Mouse hovers over the Desktops menu
+2020-10-27 21:48:59,276 [main] INFO logger_File - Click on the Mac option
+2020-10-27 21:49:08,595 [main] INFO logger_File - click on Add To Cart button
+2020-10-27 21:49:09,372 [main] INFO logger_File - Verifying success message
+2020-10-27 21:49:10,957 [main] INFO logger_File - Add products to shopping cart   passed
+2020-10-27 21:49:49,285 [main] INFO logger_File - Scenario Add products to shopping cart Started 
+2020-10-27 21:49:58,582 [main] INFO logger_File - Verify if user is on Retail Page
+2020-10-27 21:49:58,608 [main] INFO logger_File - Page title  is verified
+2020-10-27 21:49:59,490 [main] INFO logger_File - Mouse hovers over the Desktops menu
+2020-10-27 21:50:00,677 [main] INFO logger_File - Click on the Mac option
+2020-10-27 21:50:10,057 [main] INFO logger_File - click on Add To Cart button
+2020-10-27 21:50:10,820 [main] INFO logger_File - Verifying success message
+2020-10-27 21:50:11,766 [main] INFO logger_File - Add products to shopping cart   failed
+2020-10-27 21:52:39,717 [main] INFO logger_File - Scenario Add products to shopping cart Started 
+2020-10-27 21:52:48,200 [main] INFO logger_File - Verify if user is on Retail Page
+2020-10-27 21:52:48,212 [main] INFO logger_File - Page title  is verified
+2020-10-27 21:52:49,589 [main] INFO logger_File - Mouse hovers over the Desktops menu
+2020-10-27 21:52:50,630 [main] INFO logger_File - Click on the Mac option
+2020-10-27 21:52:59,896 [main] INFO logger_File - click on Add To Cart button
+2020-10-27 21:53:00,731 [main] INFO logger_File - Verifying success message
+2020-10-27 21:53:02,180 [main] INFO logger_File - Add products to shopping cart   passed
+2020-10-27 21:54:10,983 [main] INFO logger_File - Scenario Add products to shopping cart Started 
+2020-10-27 21:54:20,013 [main] INFO logger_File - Verify if user is on Retail Page
+2020-10-27 21:54:20,044 [main] INFO logger_File - Page title  is verified
+2020-10-27 21:54:21,222 [main] INFO logger_File - Mouse hovers over the Desktops menu
+2020-10-27 21:54:22,306 [main] INFO logger_File - Click on the Mac option
+2020-10-27 21:54:31,691 [main] INFO logger_File - click on Add To Cart button
+2020-10-27 21:54:32,554 [main] INFO logger_File - Verifying success message
+2020-10-27 21:54:34,015 [main] INFO logger_File - Add products to shopping cart   passed
+2020-10-28 14:15:14,866 [main] INFO logger_File - Scenario Add products to shopping cart Started 
+2020-10-28 14:15:27,096 [main] INFO logger_File - Verify if user is on Retail Page
+2020-10-28 14:15:27,138 [main] INFO logger_File - Page title  is verified
+2020-10-28 14:15:28,883 [main] INFO logger_File - Mouse hovers over the Desktops menu
+2020-10-28 14:15:30,428 [main] INFO logger_File - Click on the Mac option
+2020-10-28 14:15:40,399 [main] INFO logger_File - click on Add To Cart button
+2020-10-28 14:15:41,435 [main] INFO logger_File - Verifying success message
+2020-10-28 14:15:43,591 [main] INFO logger_File - Add products to shopping cart   passed
+2020-10-28 15:16:02,412 [main] INFO logger_File - Scenario Add products to shopping cart Started 
+2020-10-28 15:16:12,891 [main] INFO logger_File - Verify if user is on Retail Page
+2020-10-28 15:16:12,913 [main] INFO logger_File - Page title  is verified
+2020-10-28 15:16:14,144 [main] INFO logger_File - Mouse hovers over the Desktops menu
+2020-10-28 15:16:15,146 [main] INFO logger_File - Click on the Mac option
+2020-10-28 15:16:24,524 [main] INFO logger_File - click on Add To Cart button
+2020-10-28 15:16:25,250 [main] INFO logger_File - Verifying success message
+2020-10-28 15:16:26,654 [main] INFO logger_File - Add products to shopping cart   passed
+2020-11-01 09:24:59,122 [main] INFO logger_File - Scenario Remove product from Shopping Cart Started 
+2020-11-01 09:25:07,816 [main] INFO logger_File - Remove product from Shopping Cart   undefined
+2020-11-01 09:48:50,764 [main] INFO logger_File - Scenario Remove product from Shopping Cart Started 
+2020-11-01 09:48:59,692 [main] INFO logger_File - Retail page is opened
+2020-11-01 09:48:59,714 [main] INFO logger_File - Page title  is verified
+2020-11-01 09:49:01,698 [main] INFO logger_File - Shopping cart button is clicked
+2020-11-01 09:50:16,140 [main] INFO logger_File - Scenario Remove product from Shopping Cart Started 
+2020-11-01 09:50:25,090 [main] INFO logger_File - Retail page is opened
+2020-11-01 09:50:25,108 [main] INFO logger_File - Page title  is verified
+2020-11-01 09:50:27,156 [main] INFO logger_File - Shopping cart button is clicked
+2020-11-01 09:51:31,828 [main] INFO logger_File - Scenario Add products to shopping cart Started 
+2020-11-01 09:51:40,742 [main] INFO logger_File - Verify if user is on Retail Page
+2020-11-01 09:51:40,765 [main] INFO logger_File - Page title  is verified
+2020-11-01 09:51:42,323 [main] INFO logger_File - Mouse hovers over the Desktops menu
+2020-11-01 09:51:43,466 [main] INFO logger_File - Click on the Mac option
+2020-11-01 09:51:54,002 [main] INFO logger_File - click on Add To Cart button
+2020-11-01 09:51:54,876 [main] INFO logger_File - Verifying success message
+2020-11-01 09:51:56,510 [main] INFO logger_File - Add products to shopping cart   passed
+2020-11-01 09:51:56,514 [main] INFO logger_File - Scenario Remove product from Shopping Cart Started 
+2020-11-01 09:52:04,663 [main] INFO logger_File - Retail page is opened
+2020-11-01 09:52:04,670 [main] INFO logger_File - Page title  is verified
+2020-11-01 09:52:06,320 [main] INFO logger_File - Shopping cart button is clicked
+2020-11-01 10:19:55,090 [main] INFO logger_File - Scenario Add Product to Shopping Cart Started 
+2020-11-01 10:20:04,279 [main] INFO logger_File - Add Product to Shopping Cart   undefined
+2020-11-01 10:38:32,938 [main] INFO logger_File - Scenario Add Product to Shopping Cart Started 
+2020-11-01 10:38:40,869 [main] INFO logger_File - Add Product to Shopping Cart   undefined
+2020-11-01 10:40:14,059 [main] INFO logger_File - Scenario Add Product to Shopping Cart Started 
+2020-11-01 11:20:50,865 [main] INFO logger_File - Scenario Add a product to the Shopping Cart Started 
+2020-11-01 11:20:59,527 [main] INFO logger_File - Retail page is opened
+2020-11-01 11:20:59,571 [main] INFO logger_File - Page title  is verified
+2020-11-01 11:21:01,425 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-11-01 11:21:14,031 [main] INFO logger_File - iMac clicked
+2020-11-01 11:21:14,732 [main] INFO logger_File - Add To Cart clicked
+2020-11-01 11:21:15,527 [main] INFO logger_File - Verfiy page title
+2020-11-01 11:21:17,079 [main] INFO logger_File - Add a product to the Shopping Cart   passed
+2020-11-01 11:21:17,083 [main] INFO logger_File - Scenario Remove a product from the Shopping Cart Started 
+2020-11-01 11:21:24,161 [main] INFO logger_File - Retail page is opened
+2020-11-01 11:21:24,184 [main] INFO logger_File - Page title  is verified
+2020-11-01 11:21:25,836 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-11-01 11:21:38,353 [main] INFO logger_File - iMac clicked
+2020-11-01 11:21:39,049 [main] INFO logger_File - Add To Cart clicked
+2020-11-01 11:21:40,239 [main] INFO logger_File - Click on Shopping Cart button
+2020-11-01 11:21:40,930 [main] INFO logger_File - Click red Remove Item button
+2020-11-01 11:21:42,327 [main] INFO logger_File - Remove a product from the Shopping Cart   passed
+2020-11-01 11:59:58,808 [main] INFO logger_File - Scenario Add a product to the Shopping Cart Started 
+2020-11-01 12:00:07,832 [main] INFO logger_File - Retail page is opened
+2020-11-01 12:00:07,848 [main] INFO logger_File - Page title  is verified
+2020-11-01 12:00:09,660 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-11-01 12:00:22,364 [main] INFO logger_File - iMac clicked
+2020-11-01 12:00:22,984 [main] INFO logger_File - Add To Cart clicked
+2020-11-01 12:00:23,774 [main] INFO logger_File - Verfiy page title
+2020-11-01 12:00:25,209 [main] INFO logger_File - Add a product to the Shopping Cart   passed
+2020-11-01 12:00:25,215 [main] INFO logger_File - Scenario Remove a product from the Shopping Cart Started 
+2020-11-01 12:00:32,104 [main] INFO logger_File - Retail page is opened
+2020-11-01 12:00:32,124 [main] INFO logger_File - Page title  is verified
+2020-11-01 12:00:33,918 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-11-01 12:00:46,573 [main] INFO logger_File - iMac clicked
+2020-11-01 12:00:47,256 [main] INFO logger_File - Add To Cart clicked
+2020-11-01 12:00:48,449 [main] INFO logger_File - Click on Shopping Cart button
+2020-11-01 12:00:49,175 [main] INFO logger_File - Click red Remove Item button
+2020-11-01 12:00:50,657 [main] INFO logger_File - Remove a product from the Shopping Cart   passed
+2020-11-01 12:01:21,286 [main] INFO logger_File - Scenario Add a product to the Shopping Cart Started 
+2020-11-01 12:01:30,388 [main] INFO logger_File - Retail page is opened
+2020-11-01 12:01:30,413 [main] INFO logger_File - Page title  is verified
+2020-11-01 12:01:32,287 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-11-01 12:01:44,977 [main] INFO logger_File - iMac clicked
+2020-11-01 12:01:45,605 [main] INFO logger_File - Add To Cart clicked
+2020-11-01 12:01:46,339 [main] INFO logger_File - Verfiy page title
+2020-11-01 12:01:47,682 [main] INFO logger_File - Add a product to the Shopping Cart   passed
+2020-11-01 12:01:47,691 [main] INFO logger_File - Scenario Remove a product from the Shopping Cart Started 
+2020-11-01 12:01:54,715 [main] INFO logger_File - Retail page is opened
+2020-11-01 12:01:54,729 [main] INFO logger_File - Page title  is verified
+2020-11-01 12:01:56,445 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-11-01 12:02:09,098 [main] INFO logger_File - iMac clicked
+2020-11-01 12:02:09,721 [main] INFO logger_File - Add To Cart clicked
+2020-11-01 12:02:10,891 [main] INFO logger_File - Click on Shopping Cart button
+2020-11-01 12:02:11,573 [main] INFO logger_File - Click red Remove Item button
+2020-11-01 12:02:13,123 [main] INFO logger_File - Remove a product from the Shopping Cart   failed
+2020-11-03 10:31:50,642 [main] INFO logger_File - Scenario Add a product to the Shopping Cart Started 
+2020-11-03 10:32:03,924 [main] INFO logger_File - Retail page is opened
+2020-11-03 10:32:03,975 [main] INFO logger_File - Page title  is verified
+2020-11-03 10:32:05,231 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-11-03 10:32:17,922 [main] INFO logger_File - iMac clicked
+2020-11-03 10:32:18,544 [main] INFO logger_File - Add To Cart clicked
+2020-11-03 10:32:19,396 [main] INFO logger_File - Verfiy page title
+2020-11-03 10:32:21,116 [main] INFO logger_File - Add a product to the Shopping Cart   passed
+2020-11-03 10:32:21,135 [main] INFO logger_File - Scenario Remove a product from the Shopping Cart Started 
+2020-11-03 10:32:28,601 [main] INFO logger_File - Retail page is opened
+2020-11-03 10:32:28,616 [main] INFO logger_File - Page title  is verified
+2020-11-03 10:32:30,606 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-11-03 10:32:43,779 [main] INFO logger_File - iMac clicked
+2020-11-03 10:32:44,375 [main] INFO logger_File - Add To Cart clicked
+2020-11-03 10:32:45,777 [main] INFO logger_File - Click on Shopping Cart button
+2020-11-03 10:32:46,531 [main] INFO logger_File - Click red Remove Item button
+2020-11-03 10:32:48,457 [main] INFO logger_File - Remove a product from the Shopping Cart   failed
+2020-11-03 11:08:17,503 [main] INFO logger_File - Scenario test search Started 
+2020-11-03 11:08:26,449 [main] INFO logger_File - test search   undefined
+2020-11-03 11:09:07,614 [main] INFO logger_File - Scenario test search Started 
+2020-11-03 11:09:16,618 [main] INFO logger_File - test search   failed
+2020-11-03 11:11:43,740 [main] INFO logger_File - Scenario test search Started 
+2020-11-03 11:11:53,075 [main] INFO logger_File - test search   failed
+2020-11-03 11:18:51,731 [main] INFO logger_File - Scenario test search Started 
+2020-11-03 11:21:15,977 [main] INFO logger_File - Scenario Add an item to Wish List Started 
+2020-11-03 11:21:24,089 [main] INFO logger_File - Retail page is opened
+2020-11-03 11:21:24,109 [main] INFO logger_File - Page title  is verified
+2020-11-03 11:21:26,177 [main] INFO logger_File - Add an item to Wish List   undefined
+2020-11-03 11:21:26,193 [main] INFO logger_File - Scenario Remove an item from Wish List Started 
+2020-11-03 11:21:32,774 [main] INFO logger_File - Retail page is opened
+2020-11-03 11:21:32,793 [main] INFO logger_File - Page title  is verified
+2020-11-03 11:21:34,748 [main] INFO logger_File - Remove an item from Wish List   undefined
+2020-11-03 11:23:04,715 [main] INFO logger_File - Scenario Add an item to Wish List Started 
+2020-11-03 11:23:12,911 [main] INFO logger_File - Retail page is opened
+2020-11-03 11:23:12,934 [main] INFO logger_File - Page title  is verified
+2020-11-03 11:23:14,872 [main] INFO logger_File - Add an item to Wish List   undefined
+2020-11-03 11:23:14,887 [main] INFO logger_File - Scenario Remove an item from Wish List Started 
+2020-11-03 11:23:21,539 [main] INFO logger_File - Retail page is opened
+2020-11-03 11:23:21,558 [main] INFO logger_File - Page title  is verified
+2020-11-03 11:23:23,457 [main] INFO logger_File - Remove an item from Wish List   undefined
+2020-11-03 15:18:39,090 [main] INFO logger_File - Scenario Add an item to Wish List Started 
+2020-11-03 15:18:47,770 [main] INFO logger_File - Retail page is opened
+2020-11-03 15:18:47,784 [main] INFO logger_File - Page title  is verified
+2020-11-03 15:18:50,104 [main] INFO logger_File - Add an item to Wish List   undefined
+2020-11-03 15:18:50,116 [main] INFO logger_File - Scenario Remove an item from Wish List Started 
+2020-11-03 15:18:57,316 [main] INFO logger_File - Retail page is opened
+2020-11-03 15:18:57,337 [main] INFO logger_File - Page title  is verified
+2020-11-03 15:18:59,730 [main] INFO logger_File - Remove an item from Wish List   undefined
+2020-11-03 15:20:23,057 [main] INFO logger_File - Scenario Add a product to the Shopping Cart Started 
+2020-11-03 15:20:31,071 [main] INFO logger_File - Retail page is opened
+2020-11-03 15:20:31,095 [main] INFO logger_File - Page title  is verified
+2020-11-03 15:20:32,752 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-11-03 15:20:45,617 [main] INFO logger_File - iMac clicked
+2020-11-03 15:20:46,342 [main] INFO logger_File - Add To Cart clicked
+2020-11-03 15:20:47,205 [main] INFO logger_File - Verfiy page title
+2020-11-03 15:20:48,699 [main] INFO logger_File - Add a product to the Shopping Cart   passed
+2020-11-03 15:20:48,713 [main] INFO logger_File - Scenario Remove a product from the Shopping Cart Started 
+2020-11-03 15:20:55,817 [main] INFO logger_File - Retail page is opened
+2020-11-03 15:20:55,833 [main] INFO logger_File - Page title  is verified
+2020-11-03 15:20:57,463 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-11-03 15:21:10,115 [main] INFO logger_File - iMac clicked
+2020-11-03 15:21:11,100 [main] INFO logger_File - Add To Cart clicked
+2020-11-03 15:21:12,472 [main] INFO logger_File - Click on Shopping Cart button
+2020-11-03 15:21:13,258 [main] INFO logger_File - Click red Remove Item button
+2020-11-03 15:21:14,731 [main] INFO logger_File - Remove a product from the Shopping Cart   failed
+2020-11-13 13:01:28,853 [main] INFO logger_File - Scenario Add a product to the Shopping Cart Started 
+2020-11-13 13:01:37,956 [main] INFO logger_File - Retail page is opened
+2020-11-13 13:01:37,988 [main] INFO logger_File - Page title  is verified
+2020-11-13 13:01:39,517 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-11-13 13:01:52,067 [main] INFO logger_File - iMac clicked
+2020-11-13 13:01:52,666 [main] INFO logger_File - Add To Cart clicked
+2020-11-13 13:01:53,380 [main] INFO logger_File - Verfiy page title
+2020-11-13 13:01:54,728 [main] INFO logger_File - Add a product to the Shopping Cart   passed
+2020-11-13 13:01:54,745 [main] INFO logger_File - Scenario Remove a product from the Shopping Cart Started 
+2020-11-13 13:02:01,766 [main] INFO logger_File - Retail page is opened
+2020-11-13 13:02:01,777 [main] INFO logger_File - Page title  is verified
+2020-11-13 13:02:03,257 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-11-13 13:02:15,781 [main] INFO logger_File - iMac clicked
+2020-11-13 13:02:16,391 [main] INFO logger_File - Add To Cart clicked
+2020-11-13 13:02:17,514 [main] INFO logger_File - Click on Shopping Cart button
+2020-11-13 13:02:18,180 [main] INFO logger_File - Click red Remove Item button
+2020-11-13 13:02:19,658 [main] INFO logger_File - Remove a product from the Shopping Cart   failed
+2020-11-13 13:03:05,521 [main] INFO logger_File - Scenario Add a product to the Shopping Cart Started 
+2020-11-13 13:03:14,865 [main] INFO logger_File - Retail page is opened
+2020-11-13 13:03:14,889 [main] INFO logger_File - Page title  is verified
+2020-11-13 13:03:16,215 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-11-13 13:03:28,718 [main] INFO logger_File - iMac clicked
+2020-11-13 13:03:29,334 [main] INFO logger_File - Add To Cart clicked
+2020-11-13 13:03:30,044 [main] INFO logger_File - Verfiy page title
+2020-11-13 13:03:31,384 [main] INFO logger_File - Add a product to the Shopping Cart   passed
+2020-11-13 13:03:31,399 [main] INFO logger_File - Scenario Remove a product from the Shopping Cart Started 
+2020-11-13 13:03:38,685 [main] INFO logger_File - Retail page is opened
+2020-11-13 13:03:38,710 [main] INFO logger_File - Page title  is verified
+2020-11-13 13:03:40,140 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-11-13 13:03:52,597 [main] INFO logger_File - iMac clicked
+2020-11-13 13:03:53,193 [main] INFO logger_File - Add To Cart clicked
+2020-11-13 13:03:54,307 [main] INFO logger_File - Click on Shopping Cart button
+2020-11-13 13:03:54,908 [main] INFO logger_File - Click red Remove Item button
+2020-11-13 13:03:55,528 [main] INFO logger_File - Verify whether confirmation dialog box appears
+2020-11-13 13:03:56,337 [main] INFO logger_File - Remove a product from the Shopping Cart   passed
+2020-11-13 13:06:05,664 [main] INFO logger_File - Scenario Add an item to Wish List Started 
+2020-11-13 13:06:13,983 [main] INFO logger_File - Retail page is opened
+2020-11-13 13:06:14,008 [main] INFO logger_File - Page title  is verified
+2020-11-13 13:07:00,481 [main] INFO logger_File - Scenario Remove an item from Wish List Started 
+2020-11-13 13:07:07,701 [main] INFO logger_File - Retail page is opened
+2020-11-13 13:07:07,713 [main] INFO logger_File - Page title  is verified
+2020-11-13 13:13:48,438 [main] INFO logger_File - Scenario Add an item to Wish List Started 
+2020-11-13 13:13:57,124 [main] INFO logger_File - Retail page is opened
+2020-11-13 13:13:57,147 [main] INFO logger_File - Page title  is verified
+2020-11-13 13:14:44,360 [main] INFO logger_File - Add an item to Wish List   failed
+2020-11-13 13:14:44,371 [main] INFO logger_File - Scenario Remove an item from Wish List Started 
+2020-11-13 13:14:51,666 [main] INFO logger_File - Retail page is opened
+2020-11-13 13:14:51,688 [main] INFO logger_File - Page title  is verified
+2020-11-13 13:15:38,875 [main] INFO logger_File - Remove an item from Wish List   failed
+2020-11-13 13:20:09,834 [main] INFO logger_File - Scenario Add an item to Wish List Started 
+2020-11-13 13:20:18,543 [main] INFO logger_File - Retail page is opened
+2020-11-13 13:20:18,576 [main] INFO logger_File - Page title  is verified
+2020-11-13 13:20:54,731 [main] INFO logger_File - Scenario Remove an item from Wish List Started 
+2020-11-13 13:21:01,852 [main] INFO logger_File - Retail page is opened
+2020-11-13 13:21:01,870 [main] INFO logger_File - Page title  is verified
+2020-11-13 13:28:02,640 [main] INFO logger_File - Scenario Add an item to Wish List Started 
+2020-11-13 13:28:11,348 [main] INFO logger_File - Retail page is opened
+2020-11-13 13:28:11,373 [main] INFO logger_File - Page title  is verified
+2020-11-13 13:28:13,568 [main] INFO logger_File - User logs in
+2020-11-13 13:28:14,378 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-11-13 13:28:26,574 [main] INFO logger_File - iMac clicked
+2020-11-13 13:28:27,961 [main] INFO logger_File - Add an item to Wish List   failed
+2020-11-13 13:28:27,977 [main] INFO logger_File - Scenario Remove an item from Wish List Started 
+2020-11-13 13:28:35,051 [main] INFO logger_File - Retail page is opened
+2020-11-13 13:28:35,073 [main] INFO logger_File - Page title  is verified
+2020-11-13 13:28:36,861 [main] INFO logger_File - User logs in
+2020-11-13 13:28:37,674 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-11-13 13:28:49,913 [main] INFO logger_File - iMac clicked
+2020-11-13 13:28:51,271 [main] INFO logger_File - Remove an item from Wish List   failed
+2020-11-13 13:29:38,532 [main] INFO logger_File - Scenario Add an item to Wish List Started 
+2020-11-13 13:29:47,194 [main] INFO logger_File - Retail page is opened
+2020-11-13 13:29:47,211 [main] INFO logger_File - Page title  is verified
+2020-11-13 13:29:49,478 [main] INFO logger_File - User logs in
+2020-11-13 13:29:50,910 [main] INFO logger_File - Add an item to Wish List   failed
+2020-11-13 13:29:50,925 [main] INFO logger_File - Scenario Remove an item from Wish List Started 
+2020-11-13 13:29:58,322 [main] INFO logger_File - Retail page is opened
+2020-11-13 13:29:58,333 [main] INFO logger_File - Page title  is verified
+2020-11-13 13:30:00,369 [main] INFO logger_File - User logs in
+2020-11-13 13:30:01,756 [main] INFO logger_File - Remove an item from Wish List   failed
+2020-11-13 13:30:57,463 [main] INFO logger_File - Scenario Add an item to Wish List Started 
+2020-11-13 13:31:05,902 [main] INFO logger_File - Retail page is opened
+2020-11-13 13:31:05,925 [main] INFO logger_File - Page title  is verified
+2020-11-13 13:31:08,101 [main] INFO logger_File - User logs in
+2020-11-13 13:31:08,899 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-11-13 13:31:21,081 [main] INFO logger_File - iMac clicked
+2020-11-13 13:31:25,314 [main] INFO logger_File - Scenario Remove an item from Wish List Started 
+2020-11-13 13:32:23,690 [main] INFO logger_File - Scenario Add an item to Wish List Started 
+2020-11-13 13:32:31,944 [main] INFO logger_File - Retail page is opened
+2020-11-13 13:32:31,968 [main] INFO logger_File - Page title  is verified
+2020-11-13 13:33:20,054 [main] INFO logger_File - Add an item to Wish List   failed
+2020-11-13 13:33:20,068 [main] INFO logger_File - Scenario Remove an item from Wish List Started 
+2020-11-13 13:33:27,328 [main] INFO logger_File - Retail page is opened
+2020-11-13 13:33:27,341 [main] INFO logger_File - Page title  is verified
+2020-11-13 13:34:15,493 [main] INFO logger_File - Remove an item from Wish List   failed
+2020-11-13 13:45:11,438 [main] INFO logger_File - Scenario Add an item to Wish List Started 
+2020-11-13 13:45:19,914 [main] INFO logger_File - Retail page is opened
+2020-11-13 13:45:19,944 [main] INFO logger_File - Page title  is verified
+2020-11-13 13:46:08,195 [main] INFO logger_File - Add an item to Wish List   failed
+2020-11-13 13:46:08,203 [main] INFO logger_File - Scenario Remove an item from Wish List Started 
+2020-11-13 13:46:15,740 [main] INFO logger_File - Retail page is opened
+2020-11-13 13:46:15,747 [main] INFO logger_File - Page title  is verified
+2020-11-13 13:47:00,899 [main] INFO logger_File - User logs in
+2020-11-13 13:52:42,247 [main] INFO logger_File - Scenario login Started 
+2020-11-13 13:52:51,542 [main] INFO logger_File - Retail page is opened
+2020-11-13 13:52:51,567 [main] INFO logger_File - Page title  is verified
+2020-11-13 13:53:39,765 [main] INFO logger_File - login   failed
+2020-11-13 13:56:40,483 [main] INFO logger_File - Scenario login Started 
+2020-11-13 13:56:49,216 [main] INFO logger_File - Retail page is opened
+2020-11-13 13:56:49,237 [main] INFO logger_File - Page title  is verified
+2020-11-13 13:57:37,269 [main] INFO logger_File - login   failed
+2020-11-13 14:02:27,182 [main] INFO logger_File - Scenario login Started 
+2020-11-13 14:02:35,453 [main] INFO logger_File - Retail page is opened
+2020-11-13 14:02:35,487 [main] INFO logger_File - Page title  is verified
+2020-11-13 14:02:37,819 [main] INFO logger_File - login   failed
+2020-11-13 14:03:05,072 [main] INFO logger_File - Scenario login Started 
+2020-11-13 14:03:13,502 [main] INFO logger_File - Retail page is opened
+2020-11-13 14:03:13,522 [main] INFO logger_File - Page title  is verified
+2020-11-13 14:03:15,829 [main] INFO logger_File - login   failed
+2020-11-13 14:08:39,066 [main] INFO logger_File - Scenario login Started 
+2020-11-13 14:08:47,410 [main] INFO logger_File - Retail page is opened
+2020-11-13 14:08:47,427 [main] INFO logger_File - Page title  is verified
+2020-11-13 14:09:34,616 [main] INFO logger_File - login   failed
+2020-11-13 14:10:01,852 [main] INFO logger_File - Scenario login Started 
+2020-11-13 14:10:10,765 [main] INFO logger_File - Retail page is opened
+2020-11-13 14:10:10,789 [main] INFO logger_File - Page title  is verified
+2020-11-13 14:10:59,076 [main] INFO logger_File - login   failed
+2020-11-13 14:12:22,542 [main] INFO logger_File - Scenario login Started 
+2020-11-13 14:12:31,126 [main] INFO logger_File - Retail page is opened
+2020-11-13 14:12:31,145 [main] INFO logger_File - Page title  is verified
+2020-11-13 14:12:33,512 [main] INFO logger_File - User logs in
+2020-11-13 14:12:34,910 [main] INFO logger_File - login   passed
+2020-11-13 14:20:26,371 [main] INFO logger_File - Scenario Add to Wishlist Started 
+2020-11-13 14:20:34,750 [main] INFO logger_File - Retail page is opened
+2020-11-13 14:20:34,775 [main] INFO logger_File - Page title  is verified
+2020-11-13 14:20:37,414 [main] INFO logger_File - User logs in
+2020-11-13 14:20:38,159 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-11-13 14:20:50,450 [main] INFO logger_File - iMac clicked
+2020-11-13 14:20:51,835 [main] INFO logger_File - Add to Wishlist   failed
+2020-11-13 14:24:41,812 [main] INFO logger_File - Scenario Add to Wishlist Started 
+2020-11-13 14:24:50,564 [main] INFO logger_File - Retail page is opened
+2020-11-13 14:24:50,582 [main] INFO logger_File - Page title  is verified
+2020-11-13 14:24:52,971 [main] INFO logger_File - User logs in
+2020-11-13 14:24:53,720 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-11-13 14:25:05,988 [main] INFO logger_File - iMac clicked
+2020-11-13 14:25:07,446 [main] INFO logger_File - Add to Wishlist   failed
+2020-11-13 14:31:15,698 [main] INFO logger_File - Scenario Add to Wishlist Started 
+2020-11-13 14:31:24,099 [main] INFO logger_File - Retail page is opened
+2020-11-13 14:31:24,115 [main] INFO logger_File - Page title  is verified
+2020-11-13 14:31:27,146 [main] INFO logger_File - User logs in
+2020-11-13 14:31:27,896 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-11-13 14:31:31,416 [main] INFO logger_File - iMac clicked
+2020-11-13 14:31:32,786 [main] INFO logger_File - Add to Wishlist   failed
+2020-11-13 14:33:14,521 [main] INFO logger_File - Scenario Add to Wishlist Started 
+2020-11-13 14:33:23,009 [main] INFO logger_File - Retail page is opened
+2020-11-13 14:33:23,035 [main] INFO logger_File - Page title  is verified
+2020-11-13 14:33:25,756 [main] INFO logger_File - User logs in
+2020-11-13 14:33:26,495 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-11-13 14:33:30,940 [main] INFO logger_File - Add to Wishlist   failed
+2020-11-13 14:35:54,484 [main] INFO logger_File - Scenario Add to Wishlist Started 
+2020-11-13 14:36:03,018 [main] INFO logger_File - Retail page is opened
+2020-11-13 14:36:03,051 [main] INFO logger_File - Page title  is verified
+2020-11-13 14:36:05,915 [main] INFO logger_File - User logs in
+2020-11-13 14:36:06,720 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-11-13 14:36:11,123 [main] INFO logger_File - Add to Wishlist   failed
+2020-11-13 14:39:16,607 [main] INFO logger_File - Scenario Add to Wishlist Started 
+2020-11-13 14:39:25,326 [main] INFO logger_File - Retail page is opened
+2020-11-13 14:39:25,346 [main] INFO logger_File - Page title  is verified
+2020-11-13 14:39:28,447 [main] INFO logger_File - User logs in
+2020-11-13 14:39:29,202 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-11-13 14:39:33,579 [main] INFO logger_File - Add to Wishlist   failed
+2020-11-13 14:40:15,524 [main] INFO logger_File - Scenario Add to Wishlist Started 
+2020-11-13 14:40:23,978 [main] INFO logger_File - Retail page is opened
+2020-11-13 14:40:24,001 [main] INFO logger_File - Page title  is verified
+2020-11-13 14:40:26,444 [main] INFO logger_File - User logs in
+2020-11-13 14:40:27,202 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-11-13 14:40:31,628 [main] INFO logger_File - Add to Wishlist   failed
+2020-11-13 21:13:16,663 [main] INFO logger_File - Scenario Add to Wishlist Started 
+2020-11-13 21:13:25,436 [main] INFO logger_File - Retail page is opened
+2020-11-13 21:13:25,452 [main] INFO logger_File - Page title  is verified
+2020-11-13 21:13:27,971 [main] INFO logger_File - User logs in
+2020-11-13 21:13:28,686 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-11-13 21:13:33,159 [main] INFO logger_File - Add to Wishlist   failed
+2020-11-13 21:15:40,182 [main] INFO logger_File - Scenario Add to Wishlist Started 
+2020-11-13 21:15:50,537 [main] INFO logger_File - Retail page is opened
+2020-11-13 21:15:50,562 [main] INFO logger_File - Page title  is verified
+2020-11-13 21:15:53,186 [main] INFO logger_File - User logs in
+2020-11-13 21:15:53,957 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-11-13 21:15:58,410 [main] INFO logger_File - Add to Wishlist   failed
+2020-11-13 21:19:29,560 [main] INFO logger_File - Scenario Add to Wishlist Started 
+2020-11-13 21:19:39,355 [main] INFO logger_File - Retail page is opened
+2020-11-13 21:19:39,365 [main] INFO logger_File - Page title  is verified
+2020-11-13 21:19:42,031 [main] INFO logger_File - User logs in
+2020-11-13 21:19:42,809 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-11-13 21:19:47,286 [main] INFO logger_File - Add to Wishlist   failed
+2020-11-13 21:21:12,562 [main] INFO logger_File - Scenario Add to Wishlist Started 
+2020-11-13 21:21:22,302 [main] INFO logger_File - Retail page is opened
+2020-11-13 21:21:22,316 [main] INFO logger_File - Page title  is verified
+2020-11-13 21:21:25,581 [main] INFO logger_File - User logs in
+2020-11-13 21:21:26,342 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-11-13 21:21:30,955 [main] INFO logger_File - Add to Wishlist   failed
+2020-11-13 21:24:40,158 [main] INFO logger_File - Scenario User adds item to Wishlist Started 
+2020-11-13 21:24:49,592 [main] INFO logger_File - Retail page is opened
+2020-11-13 21:24:49,621 [main] INFO logger_File - Page title  is verified
+2020-11-13 21:24:52,445 [main] INFO logger_File - User logs in
+2020-11-13 21:24:53,190 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-11-13 21:24:57,705 [main] INFO logger_File - User adds item to Wishlist   failed
+2020-11-13 21:27:28,327 [main] INFO logger_File - Scenario User adds item to Wishlist Started 
+2020-11-13 21:27:38,345 [main] INFO logger_File - Retail page is opened
+2020-11-13 21:27:38,398 [main] INFO logger_File - Page title  is verified
+2020-11-13 21:27:40,685 [main] INFO logger_File - User logs in
+2020-11-13 21:27:41,484 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-11-13 21:27:53,921 [main] INFO logger_File - click on iMac
+2020-11-13 21:27:54,784 [main] INFO logger_File - click on heart button
+2020-11-13 21:27:56,339 [main] INFO logger_File - User adds item to Wishlist   passed
+2020-11-13 21:28:48,964 [main] INFO logger_File - Scenario Add to Wishlist Started 
+2020-11-13 21:28:59,136 [main] INFO logger_File - Retail page is opened
+2020-11-13 21:28:59,157 [main] INFO logger_File - Page title  is verified
+2020-11-13 21:29:01,890 [main] INFO logger_File - User logs in
+2020-11-13 21:29:02,650 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-11-13 21:29:15,075 [main] INFO logger_File - click on iMac
+2020-11-13 21:29:16,147 [main] INFO logger_File - click on heart button
+2020-11-13 21:29:17,705 [main] INFO logger_File - Add to Wishlist   passed
+2020-11-13 21:30:04,805 [main] INFO logger_File - Scenario Add to Wishlist Started 
+2020-11-13 21:30:13,622 [main] INFO logger_File - Retail page is opened
+2020-11-13 21:30:13,640 [main] INFO logger_File - Page title  is verified
+2020-11-13 21:30:16,594 [main] INFO logger_File - User logs in
+2020-11-13 21:30:17,372 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-11-13 21:30:30,188 [main] INFO logger_File - click on iMac
+2020-11-13 21:30:31,297 [main] INFO logger_File - click on heart button
+2020-11-13 21:30:32,933 [main] INFO logger_File - Add to Wishlist   passed
+2020-11-13 21:34:22,284 [main] INFO logger_File - Scenario Add to Wishlist Started 
+2020-11-13 21:34:31,613 [main] INFO logger_File - Retail page is opened
+2020-11-13 21:34:31,629 [main] INFO logger_File - Page title  is verified
+2020-11-13 21:34:34,440 [main] INFO logger_File - User logs in
+2020-11-13 21:34:35,214 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-11-13 21:34:47,422 [main] INFO logger_File - click on iMac
+2020-11-13 21:34:48,132 [main] INFO logger_File - click on heart button
+2020-11-13 21:34:52,812 [main] INFO logger_File - Add to Wishlist   passed
+2020-11-13 21:36:55,936 [main] INFO logger_File - Scenario Add to Wishlist Started 
+2020-11-13 21:37:06,168 [main] INFO logger_File - Retail page is opened
+2020-11-13 21:37:06,193 [main] INFO logger_File - Page title  is verified
+2020-11-13 21:37:08,828 [main] INFO logger_File - User logs in
+2020-11-13 21:37:09,614 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-11-13 21:37:22,119 [main] INFO logger_File - click on iMac
+2020-11-13 21:37:22,820 [main] INFO logger_File - click on heart button
+2020-11-13 21:37:26,667 [main] INFO logger_File - Verfiy page title
+2020-11-13 21:37:28,132 [main] INFO logger_File - Add to Wishlist   passed
+2020-11-13 21:39:04,242 [main] INFO logger_File - Scenario Add to Wishlist Started 
+2020-11-13 21:39:13,849 [main] INFO logger_File - Retail page is opened
+2020-11-13 21:39:13,876 [main] INFO logger_File - Page title  is verified
+2020-11-13 21:39:16,373 [main] INFO logger_File - User logs in
+2020-11-13 21:39:17,098 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-11-13 21:39:29,634 [main] INFO logger_File - click on iMac
+2020-11-13 21:39:30,363 [main] INFO logger_File - click on heart button
+2020-11-13 21:39:34,264 [main] INFO logger_File - Verfiy page title
+2020-11-13 21:39:35,831 [main] INFO logger_File - Add to Wishlist   passed
+2020-11-13 21:39:35,865 [main] INFO logger_File - Scenario Remove from Wishlist Started 
+2020-11-13 21:39:46,682 [main] INFO logger_File - Retail page is opened
+2020-11-13 21:39:46,706 [main] INFO logger_File - Page title  is verified
+2020-11-13 21:39:49,067 [main] INFO logger_File - User logs in
+2020-11-13 21:39:49,875 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-11-13 21:40:02,577 [main] INFO logger_File - click on iMac
+2020-11-13 21:40:07,548 [main] INFO logger_File - Remove from Wishlist   passed
+2020-11-13 21:41:55,473 [main] INFO logger_File - Scenario Add to Wishlist Started 
+2020-11-13 21:42:04,860 [main] INFO logger_File - Retail page is opened
+2020-11-13 21:42:04,888 [main] INFO logger_File - Page title  is verified
+2020-11-13 21:42:07,566 [main] INFO logger_File - User logs in
+2020-11-13 21:42:08,490 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-11-13 21:42:21,056 [main] INFO logger_File - click on iMac
+2020-11-13 21:42:21,866 [main] INFO logger_File - click on heart button
+2020-11-13 21:42:25,726 [main] INFO logger_File - Verfiy page title
+2020-11-13 21:42:27,166 [main] INFO logger_File - Add to Wishlist   passed
+2020-11-13 21:42:27,200 [main] INFO logger_File - Scenario Remove from Wishlist Started 
+2020-11-13 21:42:35,076 [main] INFO logger_File - Retail page is opened
+2020-11-13 21:42:35,091 [main] INFO logger_File - Page title  is verified
+2020-11-13 21:42:37,586 [main] INFO logger_File - User logs in
+2020-11-13 21:42:38,341 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-11-13 21:42:50,831 [main] INFO logger_File - click on iMac
+2020-11-13 21:42:54,766 [main] INFO logger_File - Verifying if iMac link exists in Wishlist
+2020-11-13 21:42:56,181 [main] INFO logger_File - Remove from Wishlist   passed
+2020-11-13 21:45:12,309 [main] INFO logger_File - Scenario Add to Wishlist Started 
+2020-11-13 21:45:21,584 [main] INFO logger_File - Retail page is opened
+2020-11-13 21:45:21,612 [main] INFO logger_File - Page title  is verified
+2020-11-13 21:45:24,701 [main] INFO logger_File - User logs in
+2020-11-13 21:45:25,490 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-11-13 21:45:38,259 [main] INFO logger_File - click on iMac
+2020-11-13 21:45:39,063 [main] INFO logger_File - click on heart button
+2020-11-13 21:45:42,967 [main] INFO logger_File - Verfiy page title
+2020-11-13 21:45:44,436 [main] INFO logger_File - Add to Wishlist   passed
+2020-11-13 21:45:44,450 [main] INFO logger_File - Scenario Remove from Wishlist Started 
+2020-11-13 21:45:52,839 [main] INFO logger_File - Retail page is opened
+2020-11-13 21:45:52,859 [main] INFO logger_File - Page title  is verified
+2020-11-13 21:45:55,150 [main] INFO logger_File - User logs in
+2020-11-13 21:45:55,916 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-11-13 21:46:08,433 [main] INFO logger_File - click on iMac
+2020-11-13 21:46:12,286 [main] INFO logger_File - Verifying if iMac link exists in Wishlist
+2020-11-13 21:46:13,527 [main] INFO logger_File - Clicking remove from Wishlist
+2020-11-13 21:47:00,162 [main] INFO logger_File - Remove from Wishlist   failed
+2020-11-29 13:02:08,813 [main] INFO logger_File - Scenario Add to Wishlist Started 
+2020-11-29 13:02:22,080 [main] INFO logger_File - Retail page is opened
+2020-11-29 13:02:22,099 [main] INFO logger_File - Page title  is verified
+2020-11-29 13:02:24,559 [main] INFO logger_File - User logs in
+2020-11-29 13:02:25,354 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-11-29 13:02:37,796 [main] INFO logger_File - click on iMac
+2020-11-29 13:02:38,487 [main] INFO logger_File - click on heart button
+2020-11-29 13:02:42,242 [main] INFO logger_File - Verfiy page title
+2020-11-29 13:02:43,694 [main] INFO logger_File - Add to Wishlist   passed
+2020-11-29 13:02:43,710 [main] INFO logger_File - Scenario Remove from Wishlist Started 
+2020-11-29 13:02:53,741 [main] INFO logger_File - Retail page is opened
+2020-11-29 13:02:53,762 [main] INFO logger_File - Page title  is verified
+2020-11-29 13:02:55,988 [main] INFO logger_File - User logs in
+2020-11-29 13:02:56,752 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-11-29 13:03:09,059 [main] INFO logger_File - click on iMac
+2020-11-29 13:03:12,718 [main] INFO logger_File - Verifying if iMac link exists in Wishlist
+2020-11-29 13:03:13,903 [main] INFO logger_File - Clicking remove from Wishlist
+2020-11-29 13:03:15,376 [main] INFO logger_File - Remove from Wishlist   passed
+2020-11-29 14:08:23,561 [main] INFO logger_File - Scenario Verfiy change of currency Started 
+2020-11-29 14:12:42,581 [main] INFO logger_File - Scenario Verfiy change of currency Started 
+2020-11-29 14:13:35,412 [main] INFO logger_File - Verfiy change of currency   failed
+2020-11-29 14:16:56,523 [main] INFO logger_File - Scenario Verfiy change of currency Started 
+2020-11-29 14:17:49,756 [main] INFO logger_File - Verfiy change of currency   failed
+2020-11-29 14:20:44,161 [main] INFO logger_File - Scenario Verfiy change of currency Started 
+2020-11-29 14:21:36,831 [main] INFO logger_File - Verfiy change of currency   failed
+2020-11-29 14:22:56,553 [main] INFO logger_File - Scenario Verfiy change of currency Started 
+2020-11-29 14:23:49,391 [main] INFO logger_File - Verfiy change of currency   failed
+2020-11-29 14:28:34,535 [main] INFO logger_File - Scenario Verfiy change of currency Started 
+2020-11-29 14:29:27,580 [main] INFO logger_File - Verfiy change of currency   failed
+2020-11-29 21:51:45,470 [main] INFO logger_File - Scenario Verfiy change of currency Started 
+2020-11-29 21:51:54,141 [main] INFO logger_File - Verfiy change of currency   failed
+2020-11-29 21:53:31,080 [main] INFO logger_File - Scenario Verfiy change of currency Started 
+2020-11-29 21:58:34,065 [main] INFO logger_File - Scenario Add a product to the Shopping Cart Started 
+2020-11-29 21:58:45,945 [main] INFO logger_File - Retail page is opened
+2020-11-29 21:58:45,963 [main] INFO logger_File - Page title  is verified
+2020-11-29 21:58:47,191 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-11-29 21:59:00,049 [main] INFO logger_File - iMac clicked
+2020-11-29 21:59:00,802 [main] INFO logger_File - Add To Cart clicked
+2020-11-29 21:59:01,562 [main] INFO logger_File - Verfiy page title
+2020-11-29 21:59:03,008 [main] INFO logger_File - Add a product to the Shopping Cart   passed
+2020-11-29 21:59:03,058 [main] INFO logger_File - Scenario Remove a product from the Shopping Cart Started 
+2020-11-29 21:59:13,312 [main] INFO logger_File - Retail page is opened
+2020-11-29 21:59:13,323 [main] INFO logger_File - Page title  is verified
+2020-11-29 21:59:14,507 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-11-29 21:59:27,917 [main] INFO logger_File - iMac clicked
+2020-11-29 21:59:28,698 [main] INFO logger_File - Add To Cart clicked
+2020-11-29 21:59:30,072 [main] INFO logger_File - Click on Shopping Cart button
+2020-11-29 21:59:30,838 [main] INFO logger_File - Click red Remove Item button
+2020-11-29 21:59:32,343 [main] INFO logger_File - Remove a product from the Shopping Cart   failed
+2020-11-29 22:00:17,475 [main] INFO logger_File - Scenario Add a product to the Shopping Cart Started 
+2020-11-29 22:00:28,870 [main] INFO logger_File - Retail page is opened
+2020-11-29 22:00:28,878 [main] INFO logger_File - Page title  is verified
+2020-11-29 22:00:30,154 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-11-29 22:00:43,161 [main] INFO logger_File - iMac clicked
+2020-11-29 22:00:43,935 [main] INFO logger_File - Add To Cart clicked
+2020-11-29 22:00:44,747 [main] INFO logger_File - Verfiy page title
+2020-11-29 22:00:46,257 [main] INFO logger_File - Add a product to the Shopping Cart   passed
+2020-11-29 22:00:46,265 [main] INFO logger_File - Scenario Remove a product from the Shopping Cart Started 
+2020-11-29 22:00:57,291 [main] INFO logger_File - Retail page is opened
+2020-11-29 22:00:57,305 [main] INFO logger_File - Page title  is verified
+2020-11-29 22:00:58,577 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-11-29 22:01:11,404 [main] INFO logger_File - iMac clicked
+2020-11-29 22:01:12,106 [main] INFO logger_File - Add To Cart clicked
+2020-11-29 22:01:13,530 [main] INFO logger_File - Click on Shopping Cart button
+2020-11-29 22:01:14,264 [main] INFO logger_File - Click red Remove Item button
+2020-11-29 22:01:14,947 [main] INFO logger_File - Verify whether confirmation dialog box appears
+2020-11-29 22:01:15,789 [main] INFO logger_File - Remove a product from the Shopping Cart   passed
+2020-11-29 22:04:15,044 [main] INFO logger_File - Scenario Verfiy change of currency Started 
+2020-11-29 22:04:23,271 [main] INFO logger_File - Verfiy change of currency   failed
+2020-11-29 22:11:38,627 [main] INFO logger_File - Scenario Verfiy change of currency Started 
+2020-11-29 22:11:50,428 [main] INFO logger_File - Retail page is opened
+2020-11-29 22:11:50,444 [main] INFO logger_File - Page title  is verified
+2020-11-29 22:11:52,504 [main] INFO logger_File - Verfiy change of currency   passed
+2020-11-29 22:12:45,888 [main] INFO logger_File - Scenario Verfiy change of currency Started 
+2020-11-29 22:12:57,774 [main] INFO logger_File - Retail page is opened
+2020-11-29 22:12:57,796 [main] INFO logger_File - Page title  is verified
+2020-11-29 22:12:59,539 [main] INFO logger_File - Verfiy change of currency   failed
+2020-11-29 22:23:37,070 [main] INFO logger_File - Scenario Verfiy change of currency Started 
+2020-11-29 22:23:48,882 [main] INFO logger_File - Retail page is opened
+2020-11-29 22:23:48,905 [main] INFO logger_File - Page title  is verified
+2020-11-29 22:23:51,004 [main] INFO logger_File - Verfiy change of currency   failed
+2020-11-29 22:25:09,010 [main] INFO logger_File - Scenario Verfiy change of currency Started 
+2020-11-29 22:25:20,156 [main] INFO logger_File - Retail page is opened
+2020-11-29 22:25:20,173 [main] INFO logger_File - Page title  is verified
+2020-11-29 22:25:23,063 [main] INFO logger_File - Verfiy change of currency   failed
+2020-11-29 22:30:10,856 [main] INFO logger_File - Scenario Verfiy change of currency Started 
+2020-11-29 22:30:23,182 [main] INFO logger_File - Retail page is opened
+2020-11-29 22:30:23,194 [main] INFO logger_File - Page title  is verified
+2020-11-29 22:30:25,272 [main] INFO logger_File - Verfiy change of currency   passed
+2020-11-29 22:33:02,842 [main] INFO logger_File - Scenario Verfiy change of currency Started 
+2020-11-29 22:33:14,629 [main] INFO logger_File - Retail page is opened
+2020-11-29 22:33:14,654 [main] INFO logger_File - Page title  is verified
+2020-11-29 22:33:23,698 [main] INFO logger_File - Verfiy change of currency   passed
+2020-11-29 22:39:04,184 [main] INFO logger_File - Scenario Verfiy change of currency Started 
+2020-11-29 22:39:16,035 [main] INFO logger_File - Retail page is opened
+2020-11-29 22:39:16,047 [main] INFO logger_File - Page title  is verified
+2020-11-29 22:39:36,515 [main] INFO logger_File - Mac is selected from menu
+2020-11-29 22:39:38,074 [main] INFO logger_File - Verfiy change of currency   passed
+2020-11-29 22:42:07,195 [main] INFO logger_File - Scenario Verfiy change of currency Started 
+2020-11-29 22:42:18,558 [main] INFO logger_File - Retail page is opened
+2020-11-29 22:42:18,582 [main] INFO logger_File - Page title  is verified
+2020-11-29 22:42:39,293 [main] INFO logger_File - Mac is selected from menu
+2020-11-29 22:42:40,791 [main] INFO logger_File - Verfiy change of currency   passed
+2020-11-29 22:44:12,393 [main] INFO logger_File - Scenario Verfiy change of currency Started 
+2020-11-29 22:44:23,850 [main] INFO logger_File - Retail page is opened
+2020-11-29 22:44:23,866 [main] INFO logger_File - Page title  is verified
+2020-11-29 22:44:44,430 [main] INFO logger_File - Mac is selected from menu
+2020-11-29 22:44:46,002 [main] INFO logger_File - Verfiy change of currency   failed
+2020-11-29 22:47:40,254 [main] INFO logger_File - Scenario Verfiy change of currency Started 
+2020-11-29 22:47:52,427 [main] INFO logger_File - Retail page is opened
+2020-11-29 22:47:52,453 [main] INFO logger_File - Page title  is verified
+2020-11-29 22:48:12,955 [main] INFO logger_File - Mac is selected from menu
+2020-11-29 22:48:14,452 [main] INFO logger_File - Verfiy change of currency   passed
+2020-11-29 22:49:12,025 [main] INFO logger_File - Scenario Verfiy change of currency Started 
+2020-11-29 22:49:23,472 [main] INFO logger_File - Retail page is opened
+2020-11-29 22:49:23,488 [main] INFO logger_File - Page title  is verified
+2020-11-29 22:49:43,984 [main] INFO logger_File - Mac is selected from menu
+2020-11-29 22:49:45,462 [main] INFO logger_File - Verfiy change of currency   failed
+2020-11-29 22:50:35,701 [main] INFO logger_File - Scenario Verfiy change of currency Started 
+2020-11-29 22:50:46,905 [main] INFO logger_File - Retail page is opened
+2020-11-29 22:50:46,930 [main] INFO logger_File - Page title  is verified
+2020-11-29 22:51:07,262 [main] INFO logger_File - Mac is selected from menu
+2020-11-29 22:51:08,802 [main] INFO logger_File - Verfiy change of currency   passed
+2020-11-29 23:36:28,150 [main] INFO logger_File - Scenario Verfiy change of currency Started 
+2020-11-29 23:36:39,533 [main] INFO logger_File - Retail page is opened
+2020-11-29 23:36:39,546 [main] INFO logger_File - Page title  is verified
+2020-11-29 23:37:00,764 [main] INFO logger_File - Mac is selected from menu
+2020-11-29 23:37:02,322 [main] INFO logger_File - Verfiy change of currency   passed
+2020-11-29 23:38:25,167 [main] INFO logger_File - Scenario Verfiy change of currency Started 
+2020-11-29 23:38:36,931 [main] INFO logger_File - Retail page is opened
+2020-11-29 23:38:36,949 [main] INFO logger_File - Page title  is verified
+2020-11-29 23:38:57,944 [main] INFO logger_File - Mac is selected from menu
+2020-11-29 23:38:59,756 [main] INFO logger_File - Verfiy change of currency   passed
+2020-11-29 23:41:02,322 [main] INFO logger_File - Scenario Add to Wishlist Started 
+2020-11-29 23:41:14,666 [main] INFO logger_File - Retail page is opened
+2020-11-29 23:41:14,688 [main] INFO logger_File - Page title  is verified
+2020-11-29 23:41:17,253 [main] INFO logger_File - User logs in
+2020-11-29 23:41:17,941 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-11-29 23:41:30,561 [main] INFO logger_File - click on iMac
+2020-11-29 23:41:31,252 [main] INFO logger_File - click on heart button
+2020-11-29 23:41:35,378 [main] INFO logger_File - Verfiy page title
+2020-11-29 23:41:36,824 [main] INFO logger_File - Add to Wishlist   passed
+2020-11-29 23:41:36,837 [main] INFO logger_File - Scenario Remove from Wishlist Started 
+2020-11-29 23:41:47,207 [main] INFO logger_File - Retail page is opened
+2020-11-29 23:41:47,234 [main] INFO logger_File - Page title  is verified
+2020-11-29 23:41:49,886 [main] INFO logger_File - User logs in
+2020-11-29 23:41:50,557 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-11-29 23:42:03,416 [main] INFO logger_File - click on iMac
+2020-11-29 23:42:07,404 [main] INFO logger_File - Verifying if iMac link exists in Wishlist
+2020-11-29 23:42:08,960 [main] INFO logger_File - Clicking remove from Wishlist
+2020-11-29 23:42:10,390 [main] INFO logger_File - Remove from Wishlist   passed
+2020-11-29 23:46:03,079 [main] INFO logger_File - Scenario Add to Wishlist Started 
+2020-11-29 23:46:41,048 [main] INFO logger_File - Scenario Remove from Wishlist Started 
+2020-11-29 23:46:50,038 [main] INFO logger_File - Retail page is opened
+2020-11-29 23:47:34,657 [main] INFO logger_File - Scenario Add to Wishlist Started 
+2020-11-29 23:47:46,086 [main] INFO logger_File - Retail page is opened
+2020-11-29 23:47:46,169 [main] INFO logger_File - Page title  is verified
+2020-11-29 23:47:48,821 [main] INFO logger_File - User logs in
+2020-11-29 23:47:49,548 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-11-29 23:48:02,450 [main] INFO logger_File - click on iMac
+2020-11-29 23:48:03,125 [main] INFO logger_File - click on heart button
+2020-11-29 23:48:06,880 [main] INFO logger_File - Verfiy page title
+2020-11-29 23:48:08,516 [main] INFO logger_File - Add to Wishlist   passed
+2020-11-29 23:48:08,528 [main] INFO logger_File - Scenario Remove from Wishlist Started 
+2020-11-29 23:48:18,235 [main] INFO logger_File - Retail page is opened
+2020-11-29 23:48:18,268 [main] INFO logger_File - Page title  is verified
+2020-11-29 23:48:20,838 [main] INFO logger_File - User logs in
+2020-11-29 23:48:21,625 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-11-29 23:48:34,600 [main] INFO logger_File - click on iMac
+2020-11-29 23:48:38,402 [main] INFO logger_File - Verifying if iMac link exists in Wishlist
+2020-11-29 23:48:39,538 [main] INFO logger_File - Clicking remove from Wishlist
+2020-11-29 23:48:40,962 [main] INFO logger_File - Remove from Wishlist   passed
+2020-12-13 11:34:08,941 [main] INFO logger_File - Scenario Add a product to the Shopping Cart Started 
+2020-12-13 11:34:20,848 [main] INFO logger_File - Retail page is opened
+2020-12-13 11:34:20,901 [main] INFO logger_File - Page title  is verified
+2020-12-13 11:34:22,134 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-12-13 11:34:34,693 [main] INFO logger_File - iMac clicked
+2020-12-13 11:34:35,370 [main] INFO logger_File - Add To Cart clicked
+2020-12-13 11:34:36,128 [main] INFO logger_File - Verfiy page title
+2020-12-13 11:34:37,521 [main] INFO logger_File - Add a product to the Shopping Cart   passed
+2020-12-13 11:34:37,544 [main] INFO logger_File - Scenario Remove a product from the Shopping Cart Started 
+2020-12-13 11:34:47,318 [main] INFO logger_File - Retail page is opened
+2020-12-13 11:34:47,336 [main] INFO logger_File - Page title  is verified
+2020-12-13 11:34:48,568 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-12-13 11:35:00,945 [main] INFO logger_File - iMac clicked
+2020-12-13 11:35:01,617 [main] INFO logger_File - Add To Cart clicked
+2020-12-13 11:35:02,828 [main] INFO logger_File - Click on Shopping Cart button
+2020-12-13 11:35:03,572 [main] INFO logger_File - Click red Remove Item button
+2020-12-13 11:35:04,262 [main] INFO logger_File - Verify whether confirmation dialog box appears
+2020-12-13 11:35:05,126 [main] INFO logger_File - Remove a product from the Shopping Cart   passed
+2020-12-13 12:16:54,903 [main] INFO logger_File - Scenario Add a product to the Shopping Cart Started 
+2020-12-13 12:17:06,590 [main] INFO logger_File - Retail page is opened
+2020-12-13 12:17:06,609 [main] INFO logger_File - Page title  is verified
+2020-12-13 12:17:07,723 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-12-13 12:17:20,195 [main] INFO logger_File - iMac clicked
+2020-12-13 12:17:20,824 [main] INFO logger_File - Add To Cart clicked
+2020-12-13 12:17:21,587 [main] INFO logger_File - Verfiy page title
+2020-12-13 12:17:23,039 [main] INFO logger_File - Add a product to the Shopping Cart   passed
+2020-12-13 12:17:23,057 [main] INFO logger_File - Scenario Verify shopping cart total Started 
+2020-12-13 12:17:33,267 [main] INFO logger_File - Retail page is opened
+2020-12-13 12:17:33,282 [main] INFO logger_File - Page title  is verified
+2020-12-13 12:17:34,352 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-12-13 12:17:46,724 [main] INFO logger_File - iMac clicked
+2020-12-13 12:17:47,414 [main] INFO logger_File - Add To Cart clicked
+2020-12-13 12:18:34,053 [main] INFO logger_File - Verify shopping cart total   failed
+2020-12-13 12:18:34,068 [main] INFO logger_File - Scenario Remove a product from the Shopping Cart Started 
+2020-12-13 12:18:47,283 [main] INFO logger_File - Retail page is opened
+2020-12-13 12:18:47,291 [main] INFO logger_File - Page title  is verified
+2020-12-13 12:18:48,143 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-12-13 12:19:00,639 [main] INFO logger_File - iMac clicked
+2020-12-13 12:19:01,312 [main] INFO logger_File - Add To Cart clicked
+2020-12-13 12:19:02,479 [main] INFO logger_File - Click on Shopping Cart button
+2020-12-13 12:19:03,189 [main] INFO logger_File - Click red Remove Item button
+2020-12-13 12:19:03,931 [main] INFO logger_File - Verify whether confirmation dialog box appears
+2020-12-13 12:19:04,874 [main] INFO logger_File - Remove a product from the Shopping Cart   passed
+2020-12-13 12:33:03,473 [main] INFO logger_File - Scenario Add a product to the Shopping Cart Started 
+2020-12-13 12:33:16,244 [main] INFO logger_File - Retail page is opened
+2020-12-13 12:33:16,271 [main] INFO logger_File - Page title  is verified
+2020-12-13 12:33:17,415 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-12-13 12:33:29,816 [main] INFO logger_File - iMac clicked
+2020-12-13 12:33:30,480 [main] INFO logger_File - Add To Cart clicked
+2020-12-13 12:33:31,271 [main] INFO logger_File - Verfiy page title
+2020-12-13 12:33:32,903 [main] INFO logger_File - Add a product to the Shopping Cart   passed
+2020-12-13 12:33:32,915 [main] INFO logger_File - Scenario Verify shopping cart total Started 
+2020-12-13 12:33:43,528 [main] INFO logger_File - Retail page is opened
+2020-12-13 12:33:43,556 [main] INFO logger_File - Page title  is verified
+2020-12-13 12:33:44,448 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-12-13 12:33:56,985 [main] INFO logger_File - iMac clicked
+2020-12-13 12:33:57,644 [main] INFO logger_File - Add To Cart clicked
+2020-12-13 12:34:37,368 [main] INFO logger_File - Scenario Remove a product from the Shopping Cart Started 
+2020-12-13 12:38:46,980 [main] INFO logger_File - Scenario Add a product to the Shopping Cart Started 
+2020-12-13 12:39:01,090 [main] INFO logger_File - Retail page is opened
+2020-12-13 12:39:01,109 [main] INFO logger_File - Page title  is verified
+2020-12-13 12:39:02,408 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-12-13 12:39:14,908 [main] INFO logger_File - iMac clicked
+2020-12-13 12:39:15,592 [main] INFO logger_File - Add To Cart clicked
+2020-12-13 12:39:16,353 [main] INFO logger_File - Verfiy page title
+2020-12-13 12:39:17,840 [main] INFO logger_File - Add a product to the Shopping Cart   passed
+2020-12-13 12:39:17,867 [main] INFO logger_File - Scenario Verify shopping cart total Started 
+2020-12-13 12:39:27,842 [main] INFO logger_File - Retail page is opened
+2020-12-13 12:39:27,861 [main] INFO logger_File - Page title  is verified
+2020-12-13 12:39:28,859 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-12-13 12:39:41,401 [main] INFO logger_File - iMac clicked
+2020-12-13 12:39:42,109 [main] INFO logger_File - Add To Cart clicked
+2020-12-13 12:39:43,213 [main] INFO logger_File - Click on Shopping Cart button
+2020-12-13 12:39:44,297 [main] INFO logger_File - Click on Shopping Cart button
+2020-12-13 12:39:45,691 [main] INFO logger_File - Verify shopping cart total   passed
+2020-12-13 12:39:45,701 [main] INFO logger_File - Scenario Remove a product from the Shopping Cart Started 
+2020-12-13 12:39:55,665 [main] INFO logger_File - Retail page is opened
+2020-12-13 12:39:55,694 [main] INFO logger_File - Page title  is verified
+2020-12-13 12:39:56,553 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-12-13 12:40:09,061 [main] INFO logger_File - iMac clicked
+2020-12-13 12:40:09,736 [main] INFO logger_File - Add To Cart clicked
+2020-12-13 12:40:10,851 [main] INFO logger_File - Click on Shopping Cart button
+2020-12-13 12:40:11,530 [main] INFO logger_File - Click red Remove Item button
+2020-12-13 12:40:12,257 [main] INFO logger_File - Verify whether confirmation dialog box appears
+2020-12-13 12:40:13,047 [main] INFO logger_File - Remove a product from the Shopping Cart   passed
+2020-12-13 12:45:59,401 [main] INFO logger_File - Scenario Add a product to the Shopping Cart Started 
+2020-12-13 12:46:11,500 [main] INFO logger_File - Retail page is opened
+2020-12-13 12:46:11,529 [main] INFO logger_File - Page title  is verified
+2020-12-13 12:46:12,489 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-12-13 12:46:24,904 [main] INFO logger_File - iMac clicked
+2020-12-13 12:46:25,579 [main] INFO logger_File - Add To Cart clicked
+2020-12-13 12:46:26,338 [main] INFO logger_File - Verfiy page title
+2020-12-13 12:46:27,843 [main] INFO logger_File - Add a product to the Shopping Cart   passed
+2020-12-13 12:46:27,859 [main] INFO logger_File - Scenario Verify shopping cart total Started 
+2020-12-13 12:46:38,171 [main] INFO logger_File - Retail page is opened
+2020-12-13 12:46:38,179 [main] INFO logger_File - Page title  is verified
+2020-12-13 12:46:39,259 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-12-13 12:46:51,785 [main] INFO logger_File - iMac clicked
+2020-12-13 12:46:52,444 [main] INFO logger_File - Add To Cart clicked
+2020-12-13 12:46:53,586 [main] INFO logger_File - Click on Shopping Cart button
+2020-12-13 12:46:54,643 [main] INFO logger_File - Click on Shopping Cart button
+2020-12-13 12:46:56,191 [main] INFO logger_File - Verify shopping cart total   passed
+2020-12-13 12:46:56,202 [main] INFO logger_File - Scenario Remove a product from the Shopping Cart Started 
+2020-12-13 12:47:09,216 [main] INFO logger_File - Retail page is opened
+2020-12-13 12:47:09,228 [main] INFO logger_File - Page title  is verified
+2020-12-13 12:47:10,153 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-12-13 12:47:22,597 [main] INFO logger_File - iMac clicked
+2020-12-13 12:47:23,240 [main] INFO logger_File - Add To Cart clicked
+2020-12-13 12:47:24,371 [main] INFO logger_File - Click on Shopping Cart button
+2020-12-13 12:47:25,083 [main] INFO logger_File - Click red Remove Item button
+2020-12-13 12:47:25,765 [main] INFO logger_File - Verify whether confirmation dialog box appears
+2020-12-13 12:47:26,787 [main] INFO logger_File - Remove a product from the Shopping Cart   passed
+2020-12-13 12:52:37,925 [main] INFO logger_File - Scenario Add a product to the Shopping Cart Started 
+2020-12-13 12:52:49,551 [main] INFO logger_File - Retail page is opened
+2020-12-13 12:52:49,578 [main] INFO logger_File - Page title  is verified
+2020-12-13 12:52:50,771 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-12-13 12:53:03,341 [main] INFO logger_File - iMac clicked
+2020-12-13 12:53:03,995 [main] INFO logger_File - Add To Cart clicked
+2020-12-13 12:53:04,756 [main] INFO logger_File - Verfiy page title
+2020-12-13 12:53:06,273 [main] INFO logger_File - Add a product to the Shopping Cart   passed
+2020-12-13 12:53:06,280 [main] INFO logger_File - Scenario Verify shopping cart total Started 
+2020-12-13 12:53:16,545 [main] INFO logger_File - Retail page is opened
+2020-12-13 12:53:16,569 [main] INFO logger_File - Page title  is verified
+2020-12-13 12:53:17,818 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-12-13 12:53:30,276 [main] INFO logger_File - iMac clicked
+2020-12-13 12:53:30,918 [main] INFO logger_File - Add To Cart clicked
+2020-12-13 12:53:32,031 [main] INFO logger_File - Click on Shopping Cart button
+2020-12-13 12:53:34,053 [main] INFO logger_File - Verify shopping cart total   failed
+2020-12-13 12:53:34,067 [main] INFO logger_File - Scenario Remove a product from the Shopping Cart Started 
+2020-12-13 12:53:44,011 [main] INFO logger_File - Retail page is opened
+2020-12-13 12:53:44,033 [main] INFO logger_File - Page title  is verified
+2020-12-13 12:53:44,925 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-12-13 12:53:57,393 [main] INFO logger_File - iMac clicked
+2020-12-13 12:53:58,054 [main] INFO logger_File - Add To Cart clicked
+2020-12-13 12:53:59,203 [main] INFO logger_File - Click on Shopping Cart button
+2020-12-13 12:53:59,911 [main] INFO logger_File - Click red Remove Item button
+2020-12-13 12:54:00,674 [main] INFO logger_File - Verify whether confirmation dialog box appears
+2020-12-13 12:54:01,665 [main] INFO logger_File - Remove a product from the Shopping Cart   passed
+2020-12-13 19:56:41,098 [main] INFO logger_File - Scenario Add a product to the Shopping Cart Started 
+2020-12-13 19:56:52,869 [main] INFO logger_File - Retail page is opened
+2020-12-13 19:56:52,890 [main] INFO logger_File - Page title  is verified
+2020-12-13 19:56:53,974 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-12-13 19:57:06,725 [main] INFO logger_File - iMac clicked
+2020-12-13 19:57:07,339 [main] INFO logger_File - Add To Cart clicked
+2020-12-13 19:57:08,101 [main] INFO logger_File - Verfiy page title
+2020-12-13 19:57:09,414 [main] INFO logger_File - Add a product to the Shopping Cart   passed
+2020-12-13 19:57:09,431 [main] INFO logger_File - Scenario Verify shopping cart total Started 
+2020-12-13 19:57:20,033 [main] INFO logger_File - Retail page is opened
+2020-12-13 19:57:20,056 [main] INFO logger_File - Page title  is verified
+2020-12-13 19:57:21,005 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-12-13 19:57:33,755 [main] INFO logger_File - iMac clicked
+2020-12-13 19:57:34,377 [main] INFO logger_File - Add To Cart clicked
+2020-12-13 19:57:35,882 [main] INFO logger_File - Click on Shopping Cart button
+2020-12-13 19:57:37,344 [main] INFO logger_File - verfiy total is calculate correctly
+2020-12-13 19:57:38,640 [main] INFO logger_File - Verify shopping cart total   passed
+2020-12-13 19:57:38,658 [main] INFO logger_File - Scenario Remove a product from the Shopping Cart Started 
+2020-12-13 19:57:50,323 [main] INFO logger_File - Retail page is opened
+2020-12-13 19:57:50,337 [main] INFO logger_File - Page title  is verified
+2020-12-13 19:57:51,168 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-12-13 19:58:03,873 [main] INFO logger_File - iMac clicked
+2020-12-13 19:58:04,490 [main] INFO logger_File - Add To Cart clicked
+2020-12-13 19:58:05,744 [main] INFO logger_File - Click on Shopping Cart button
+2020-12-13 19:58:06,369 [main] INFO logger_File - Click red Remove Item button
+2020-12-13 19:58:07,095 [main] INFO logger_File - Verify whether confirmation dialog box appears
+2020-12-13 19:58:07,843 [main] INFO logger_File - Remove a product from the Shopping Cart   passed
+2020-12-13 20:54:19,799 [main] INFO logger_File - Scenario Add a product to the Shopping Cart Started 
+2020-12-13 20:54:27,731 [main] INFO logger_File - Add a product to the Shopping Cart   failed
+2020-12-13 20:54:27,747 [main] INFO logger_File - Scenario Verify shopping cart total Started 
+2020-12-13 20:54:34,520 [main] INFO logger_File - Verify shopping cart total   failed
+2020-12-13 20:54:34,535 [main] INFO logger_File - Scenario Remove a product from the Shopping Cart Started 
+2020-12-13 20:54:41,123 [main] INFO logger_File - Remove a product from the Shopping Cart   failed
+2020-12-13 21:11:44,895 [main] INFO logger_File - Scenario Add a product to the Shopping Cart Started 
+2020-12-13 21:11:53,278 [main] INFO logger_File - Add a product to the Shopping Cart   failed
+2020-12-13 21:11:53,300 [main] INFO logger_File - Scenario Verify shopping cart total Started 
+2020-12-13 21:12:00,129 [main] INFO logger_File - Verify shopping cart total   failed
+2020-12-13 21:12:00,142 [main] INFO logger_File - Scenario Remove a product from the Shopping Cart Started 
+2020-12-13 21:12:07,114 [main] INFO logger_File - Remove a product from the Shopping Cart   failed
+2020-12-13 21:21:44,672 [main] INFO logger_File - Scenario Add a product to the Shopping Cart Started 
+2020-12-13 21:21:53,859 [main] INFO logger_File - Add a product to the Shopping Cart   failed
+2020-12-13 21:21:53,875 [main] INFO logger_File - Scenario Verify shopping cart total Started 
+2020-12-13 21:22:00,831 [main] INFO logger_File - Verify shopping cart total   failed
+2020-12-13 21:22:00,843 [main] INFO logger_File - Scenario Remove a product from the Shopping Cart Started 
+2020-12-13 21:22:07,459 [main] INFO logger_File - Remove a product from the Shopping Cart   failed
+2020-12-13 21:24:14,340 [main] INFO logger_File - Scenario Add a product to the Shopping Cart Started 
+2020-12-13 21:24:26,572 [main] INFO logger_File - Retail page is opened
+2020-12-13 21:24:26,592 [main] INFO logger_File - Page title  is verified
+2020-12-13 21:24:27,734 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-12-13 21:24:40,400 [main] INFO logger_File - iMac clicked
+2020-12-13 21:24:41,000 [main] INFO logger_File - Add To Cart clicked
+2020-12-13 21:24:41,804 [main] INFO logger_File - Verfiy page title
+2020-12-13 21:24:43,151 [main] INFO logger_File - Add a product to the Shopping Cart   passed
+2020-12-13 21:24:43,170 [main] INFO logger_File - Scenario Verify shopping cart total Started 
+2020-12-13 21:24:53,416 [main] INFO logger_File - Retail page is opened
+2020-12-13 21:24:53,437 [main] INFO logger_File - Page title  is verified
+2020-12-13 21:24:54,684 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-12-13 21:25:07,259 [main] INFO logger_File - iMac clicked
+2020-12-13 21:25:07,899 [main] INFO logger_File - Add To Cart clicked
+2020-12-13 21:25:09,071 [main] INFO logger_File - Click on Shopping Cart button
+2020-12-13 21:25:10,526 [main] INFO logger_File - verfiy total is calculate correctly
+2020-12-13 21:25:11,853 [main] INFO logger_File - Verify shopping cart total   undefined
+2020-12-13 21:25:11,866 [main] INFO logger_File - Scenario Remove a product from the Shopping Cart Started 
+2020-12-13 21:25:22,412 [main] INFO logger_File - Retail page is opened
+2020-12-13 21:25:22,427 [main] INFO logger_File - Page title  is verified
+2020-12-13 21:25:23,381 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-12-13 21:25:35,988 [main] INFO logger_File - iMac clicked
+2020-12-13 21:25:36,610 [main] INFO logger_File - Add To Cart clicked
+2020-12-13 21:25:38,057 [main] INFO logger_File - Click on Shopping Cart button
+2020-12-13 21:25:38,720 [main] INFO logger_File - Click red Remove Item button
+2020-12-13 21:25:39,397 [main] INFO logger_File - Verify whether confirmation dialog box appears
+2020-12-13 21:25:40,164 [main] INFO logger_File - Remove a product from the Shopping Cart   passed
+2020-12-13 21:27:40,816 [main] INFO logger_File - Scenario Add a product to the Shopping Cart Started 
+2020-12-13 21:27:52,897 [main] INFO logger_File - Retail page is opened
+2020-12-13 21:27:52,912 [main] INFO logger_File - Page title  is verified
+2020-12-13 21:27:54,143 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-12-13 21:28:06,824 [main] INFO logger_File - iMac clicked
+2020-12-13 21:28:07,501 [main] INFO logger_File - Add To Cart clicked
+2020-12-13 21:28:08,277 [main] INFO logger_File - Verfiy page title
+2020-12-13 21:28:09,573 [main] INFO logger_File - Add a product to the Shopping Cart   passed
+2020-12-13 21:28:09,591 [main] INFO logger_File - Scenario Verify shopping cart total Started 
+2020-12-13 21:28:20,522 [main] INFO logger_File - Retail page is opened
+2020-12-13 21:28:20,554 [main] INFO logger_File - Page title  is verified
+2020-12-13 21:28:21,490 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-12-13 21:28:34,150 [main] INFO logger_File - iMac clicked
+2020-12-13 21:28:34,778 [main] INFO logger_File - Add To Cart clicked
+2020-12-13 21:28:36,224 [main] INFO logger_File - Click on Shopping Cart button
+2020-12-13 21:28:37,818 [main] INFO logger_File - verfiy total is calculate correctly
+2020-12-13 21:28:39,207 [main] INFO logger_File - Verify shopping cart total   failed
+2020-12-13 21:28:39,221 [main] INFO logger_File - Scenario Remove a product from the Shopping Cart Started 
+2020-12-13 21:28:49,612 [main] INFO logger_File - Retail page is opened
+2020-12-13 21:28:49,625 [main] INFO logger_File - Page title  is verified
+2020-12-13 21:28:50,884 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-12-13 21:29:03,549 [main] INFO logger_File - iMac clicked
+2020-12-13 21:29:04,221 [main] INFO logger_File - Add To Cart clicked
+2020-12-13 21:29:05,564 [main] INFO logger_File - Click on Shopping Cart button
+2020-12-13 21:29:06,203 [main] INFO logger_File - Click red Remove Item button
+2020-12-13 21:29:06,990 [main] INFO logger_File - Verify whether confirmation dialog box appears
+2020-12-13 21:29:07,731 [main] INFO logger_File - Remove a product from the Shopping Cart   passed
+2020-12-25 21:33:30,080 [main] INFO logger_File - Scenario Verfiy change of currency Started 
+2020-12-25 21:33:40,694 [main] INFO logger_File - Retail page is opened
+2020-12-25 21:33:40,718 [main] INFO logger_File - Page title  is verified
+2020-12-25 21:34:01,405 [main] INFO logger_File - Mac is selected from menu
+2020-12-25 21:34:03,756 [main] INFO logger_File - Verfiy change of currency   passed
+2020-12-25 22:04:06,454 [main] INFO logger_File - Scenario Add a product to the Shopping Cart Started 
+2020-12-25 22:04:15,581 [main] INFO logger_File - Retail page is opened
+2020-12-25 22:04:15,600 [main] INFO logger_File - Page title  is verified
+2020-12-25 22:04:17,026 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-12-25 22:04:29,813 [main] INFO logger_File - iMac clicked
+2020-12-25 22:04:30,501 [main] INFO logger_File - Add To Cart clicked
+2020-12-25 22:04:31,229 [main] INFO logger_File - Verfiy page title
+2020-12-25 22:04:32,784 [main] INFO logger_File - Add a product to the Shopping Cart   passed
+2020-12-25 22:04:32,803 [main] INFO logger_File - Scenario Verify shopping cart total Started 
+2020-12-25 22:04:40,137 [main] INFO logger_File - Retail page is opened
+2020-12-25 22:04:40,154 [main] INFO logger_File - Page title  is verified
+2020-12-25 22:04:41,482 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-12-25 22:04:54,177 [main] INFO logger_File - iMac clicked
+2020-12-25 22:04:54,846 [main] INFO logger_File - Add To Cart clicked
+2020-12-25 22:04:56,269 [main] INFO logger_File - Click on Shopping Cart button
+2020-12-25 22:04:57,763 [main] INFO logger_File - verfiy total is calculated correctly
+2020-12-25 22:04:58,567 [main] INFO logger_File - verifying coupon text
+2020-12-25 22:05:00,138 [main] INFO logger_File - Verify shopping cart total   passed
+2020-12-25 22:05:00,148 [main] INFO logger_File - Scenario Remove a product from the Shopping Cart Started 
+2020-12-25 22:05:07,858 [main] INFO logger_File - Retail page is opened
+2020-12-25 22:05:07,879 [main] INFO logger_File - Page title  is verified
+2020-12-25 22:05:09,235 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-12-25 22:05:21,851 [main] INFO logger_File - iMac clicked
+2020-12-25 22:05:22,503 [main] INFO logger_File - Add To Cart clicked
+2020-12-25 22:05:24,037 [main] INFO logger_File - Click on Shopping Cart button
+2020-12-25 22:05:24,938 [main] INFO logger_File - Click red Remove Item button
+2020-12-25 22:05:25,796 [main] INFO logger_File - Verify whether confirmation dialog box appears
+2020-12-25 22:05:26,675 [main] INFO logger_File - Remove a product from the Shopping Cart   passed
+2020-12-25 22:13:06,430 [main] INFO logger_File - Scenario Add a product to the Shopping Cart Started 
+2020-12-25 22:13:19,307 [main] INFO logger_File - Retail page is opened
+2020-12-25 22:13:19,331 [main] INFO logger_File - Page title  is verified
+2020-12-25 22:13:20,670 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-12-25 22:13:33,516 [main] INFO logger_File - iMac clicked
+2020-12-25 22:13:34,333 [main] INFO logger_File - Add To Cart clicked
+2020-12-25 22:13:35,293 [main] INFO logger_File - Verfiy page title
+2020-12-25 22:13:36,793 [main] INFO logger_File - Add a product to the Shopping Cart   passed
+2020-12-25 22:13:36,806 [main] INFO logger_File - Scenario Verify shopping cart total Started 
+2020-12-25 22:13:47,267 [main] INFO logger_File - Retail page is opened
+2020-12-25 22:13:47,289 [main] INFO logger_File - Page title  is verified
+2020-12-25 22:13:48,520 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-12-25 22:14:01,628 [main] INFO logger_File - iMac clicked
+2020-12-25 22:14:02,286 [main] INFO logger_File - Add To Cart clicked
+2020-12-25 22:14:03,430 [main] INFO logger_File - Click on Shopping Cart button
+2020-12-25 22:14:04,772 [main] INFO logger_File - verfiy total is calculated correctly
+2020-12-25 22:14:05,696 [main] INFO logger_File - verifying coupon text
+2020-12-25 22:14:07,342 [main] INFO logger_File - Verify shopping cart total   passed
+2020-12-25 22:14:07,346 [main] INFO logger_File - Scenario Remove a product from the Shopping Cart Started 
+2020-12-25 22:14:17,701 [main] INFO logger_File - Retail page is opened
+2020-12-25 22:14:17,720 [main] INFO logger_File - Page title  is verified
+2020-12-25 22:14:19,056 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-12-25 22:14:32,115 [main] INFO logger_File - iMac clicked
+2020-12-25 22:14:32,762 [main] INFO logger_File - Add To Cart clicked
+2020-12-25 22:14:34,264 [main] INFO logger_File - Click on Shopping Cart button
+2020-12-25 22:14:35,040 [main] INFO logger_File - Click red Remove Item button
+2020-12-25 22:14:35,724 [main] INFO logger_File - Verify whether confirmation dialog box appears
+2020-12-25 22:14:36,602 [main] INFO logger_File - Remove a product from the Shopping Cart   passed
+2020-12-25 22:18:29,683 [main] INFO logger_File - Scenario Add a product to the Shopping Cart Started 
+2020-12-25 22:18:42,341 [main] INFO logger_File - Retail page is opened
+2020-12-25 22:18:42,362 [main] INFO logger_File - Page title  is verified
+2020-12-25 22:18:43,830 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-12-25 22:18:56,635 [main] INFO logger_File - iMac clicked
+2020-12-25 22:18:57,235 [main] INFO logger_File - Add To Cart clicked
+2020-12-25 22:18:57,994 [main] INFO logger_File - Verfiy page title
+2020-12-25 22:18:59,321 [main] INFO logger_File - Add a product to the Shopping Cart   passed
+2020-12-25 22:18:59,353 [main] INFO logger_File - Scenario Verify shopping cart total Started 
+2020-12-25 22:19:09,669 [main] INFO logger_File - Retail page is opened
+2020-12-25 22:19:09,691 [main] INFO logger_File - Page title  is verified
+2020-12-25 22:19:11,011 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-12-25 22:19:23,969 [main] INFO logger_File - iMac clicked
+2020-12-25 22:19:24,629 [main] INFO logger_File - Add To Cart clicked
+2020-12-25 22:19:26,047 [main] INFO logger_File - Click on Shopping Cart button
+2020-12-25 22:19:27,450 [main] INFO logger_File - verfiy total is calculated correctly
+2020-12-25 22:19:28,251 [main] INFO logger_File - verifying coupon text
+2020-12-25 22:19:29,811 [main] INFO logger_File - Verify shopping cart total   passed
+2020-12-25 22:19:29,823 [main] INFO logger_File - Scenario Remove a product from the Shopping Cart Started 
+2020-12-25 22:19:46,499 [main] INFO logger_File - Retail page is opened
+2020-12-25 22:19:46,525 [main] INFO logger_File - Page title  is verified
+2020-12-25 22:19:47,416 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-12-25 22:20:00,905 [main] INFO logger_File - iMac clicked
+2020-12-25 22:20:01,584 [main] INFO logger_File - Add To Cart clicked
+2020-12-25 22:20:03,062 [main] INFO logger_File - Click on Shopping Cart button
+2020-12-25 22:20:03,882 [main] INFO logger_File - Click red Remove Item button
+2020-12-25 22:20:04,592 [main] INFO logger_File - Verify whether confirmation dialog box appears
+2020-12-25 22:20:05,471 [main] INFO logger_File - Remove a product from the Shopping Cart   passed
+2020-12-25 22:24:59,895 [main] INFO logger_File - Scenario Add a product to the Shopping Cart Started 
+2020-12-25 22:25:11,834 [main] INFO logger_File - Retail page is opened
+2020-12-25 22:25:11,858 [main] INFO logger_File - Page title  is verified
+2020-12-25 22:25:13,138 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-12-25 22:25:25,775 [main] INFO logger_File - iMac clicked
+2020-12-25 22:25:26,435 [main] INFO logger_File - Add To Cart clicked
+2020-12-25 22:25:27,271 [main] INFO logger_File - Verfiy page title
+2020-12-25 22:25:28,801 [main] INFO logger_File - Add a product to the Shopping Cart   passed
+2020-12-25 22:25:28,819 [main] INFO logger_File - Scenario Verify shopping cart total Started 
+2020-12-25 22:25:39,677 [main] INFO logger_File - Retail page is opened
+2020-12-25 22:25:39,689 [main] INFO logger_File - Page title  is verified
+2020-12-25 22:25:40,857 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-12-25 22:25:53,498 [main] INFO logger_File - iMac clicked
+2020-12-25 22:25:54,124 [main] INFO logger_File - Add To Cart clicked
+2020-12-25 22:25:55,688 [main] INFO logger_File - Click on Shopping Cart button
+2020-12-25 22:25:57,120 [main] INFO logger_File - verfiy total is calculated correctly
+2020-12-25 22:25:57,857 [main] INFO logger_File - verifying coupon text
+2020-12-25 22:25:59,528 [main] INFO logger_File - Verify shopping cart total   passed
+2020-12-25 22:25:59,538 [main] INFO logger_File - Scenario Remove a product from the Shopping Cart Started 
+2020-12-25 22:26:10,062 [main] INFO logger_File - Retail page is opened
+2020-12-25 22:26:10,073 [main] INFO logger_File - Page title  is verified
+2020-12-25 22:26:11,385 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-12-25 22:26:24,093 [main] INFO logger_File - iMac clicked
+2020-12-25 22:26:24,766 [main] INFO logger_File - Add To Cart clicked
+2020-12-25 22:26:26,281 [main] INFO logger_File - Click on Shopping Cart button
+2020-12-25 22:26:27,019 [main] INFO logger_File - Click red Remove Item button
+2020-12-25 22:26:27,730 [main] INFO logger_File - Verify whether confirmation dialog box appears
+2020-12-25 22:26:28,637 [main] INFO logger_File - Remove a product from the Shopping Cart   passed
+2020-12-26 09:58:45,497 [main] INFO logger_File - Scenario Add a product to the Shopping Cart Started 
+2020-12-26 09:58:55,683 [main] INFO logger_File - Retail page is opened
+2020-12-26 09:58:55,702 [main] INFO logger_File - Page title  is verified
+2020-12-26 09:58:57,143 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-12-26 09:59:09,923 [main] INFO logger_File - iMac clicked
+2020-12-26 09:59:10,613 [main] INFO logger_File - Add To Cart clicked
+2020-12-26 09:59:11,374 [main] INFO logger_File - Verfiy page title
+2020-12-26 09:59:13,114 [main] INFO logger_File - Add a product to the Shopping Cart   passed
+2020-12-26 09:59:13,144 [main] INFO logger_File - Scenario Verify shopping cart total Started 
+2020-12-26 09:59:20,453 [main] INFO logger_File - Retail page is opened
+2020-12-26 09:59:20,469 [main] INFO logger_File - Page title  is verified
+2020-12-26 09:59:21,830 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-12-26 09:59:34,554 [main] INFO logger_File - iMac clicked
+2020-12-26 09:59:35,216 [main] INFO logger_File - Add To Cart clicked
+2020-12-26 09:59:36,640 [main] INFO logger_File - Click on Shopping Cart button
+2020-12-26 09:59:38,104 [main] INFO logger_File - verfiy total is calculated correctly
+2020-12-26 09:59:38,906 [main] INFO logger_File - verifying coupon text
+2020-12-26 09:59:40,620 [main] INFO logger_File - Verify shopping cart total   passed
+2020-12-26 09:59:40,634 [main] INFO logger_File - Scenario Remove a product from the Shopping Cart Started 
+2020-12-26 09:59:48,300 [main] INFO logger_File - Retail page is opened
+2020-12-26 09:59:48,313 [main] INFO logger_File - Page title  is verified
+2020-12-26 09:59:49,824 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-12-26 10:00:02,617 [main] INFO logger_File - iMac clicked
+2020-12-26 10:00:03,381 [main] INFO logger_File - Add To Cart clicked
+2020-12-26 10:00:05,008 [main] INFO logger_File - Click on Shopping Cart button
+2020-12-26 10:00:05,705 [main] INFO logger_File - Click red Remove Item button
+2020-12-26 10:00:06,379 [main] INFO logger_File - Verify whether confirmation dialog box appears
+2020-12-26 10:00:07,368 [main] INFO logger_File - Remove a product from the Shopping Cart   passed
+2020-12-29 21:39:15,705 [main] INFO logger_File - Scenario Add a product to the Shopping Cart Started 
+2020-12-29 21:39:25,065 [main] INFO logger_File - Retail page is opened
+2020-12-29 21:39:25,088 [main] INFO logger_File - Page title  is verified
+2020-12-29 21:39:26,575 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-12-29 21:39:39,079 [main] INFO logger_File - iMac clicked
+2020-12-29 21:39:39,642 [main] INFO logger_File - Add To Cart clicked
+2020-12-29 21:39:40,324 [main] INFO logger_File - Verfiy page title
+2020-12-29 21:39:41,580 [main] INFO logger_File - Add a product to the Shopping Cart   passed
+2020-12-29 21:39:41,589 [main] INFO logger_File - Scenario Verify shopping cart total Started 
+2020-12-29 21:39:49,131 [main] INFO logger_File - Retail page is opened
+2020-12-29 21:39:49,145 [main] INFO logger_File - Page title  is verified
+2020-12-29 21:39:50,375 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-12-29 21:40:04,459 [main] INFO logger_File - iMac clicked
+2020-12-29 21:40:05,147 [main] INFO logger_File - Add To Cart clicked
+2020-12-29 21:40:06,955 [main] INFO logger_File - Click on Shopping Cart button
+2020-12-29 21:40:08,442 [main] INFO logger_File - verfiy total is calculated correctly
+2020-12-29 21:40:09,289 [main] INFO logger_File - verifying coupon text
+2020-12-29 21:40:10,946 [main] INFO logger_File - Verify shopping cart total   passed
+2020-12-29 21:40:10,963 [main] INFO logger_File - Scenario Remove a product from the Shopping Cart Started 
+2020-12-29 21:40:22,591 [main] INFO logger_File - Retail page is opened
+2020-12-29 21:40:22,615 [main] INFO logger_File - Page title  is verified
+2020-12-29 21:40:23,584 [main] INFO logger_File - Mouse moves over Desktops menu
+2020-12-29 21:40:36,414 [main] INFO logger_File - iMac clicked
+2020-12-29 21:40:37,085 [main] INFO logger_File - Add To Cart clicked
+2020-12-29 21:40:38,881 [main] INFO logger_File - Click on Shopping Cart button
+2020-12-29 21:40:39,661 [main] INFO logger_File - Click red Remove Item button
+2020-12-29 21:40:40,416 [main] INFO logger_File - Verify whether confirmation dialog box appears
+2020-12-29 21:40:41,290 [main] INFO logger_File - Remove a product from the Shopping Cart   passed
+2021-01-19 21:27:50,158 [main] INFO logger_File - Scenario User logs in to Canvas Website Started 
+2021-01-19 21:28:04,316 [main] INFO logger_File - Canvas login page is opened
+2021-01-19 21:28:05,540 [main] INFO logger_File - User logs in to Canvas Website   failed
+2021-01-19 21:32:32,052 [main] INFO logger_File - Scenario User logs in to Canvas Website Started 
+2021-01-19 21:32:45,857 [main] INFO logger_File - Canvas login page is opened
+2021-01-19 21:32:47,165 [main] INFO logger_File - User logs in to Canvas Website   failed
+2021-01-19 21:34:46,014 [main] INFO logger_File - Scenario User logs in to Canvas Website Started 
+2021-01-19 21:34:59,218 [main] INFO logger_File - Canvas login page is opened
+2021-01-19 21:35:00,338 [main] INFO logger_File - User logs in to Canvas Website   failed
+2021-01-19 21:36:35,420 [main] INFO logger_File - Scenario User logs in to Canvas Website Started 
+2021-01-19 21:36:48,290 [main] INFO logger_File - Canvas login page is opened
+2021-01-19 21:36:49,465 [main] INFO logger_File - User logs in to Canvas Website   failed
+2021-01-19 21:38:24,724 [main] INFO logger_File - Scenario User logs in to Canvas Website Started 
+2021-01-19 21:38:37,459 [main] INFO logger_File - Canvas login page is opened
+2021-01-19 21:38:37,527 [main] INFO logger_File - Page title  is verified
+2021-01-19 21:38:38,500 [main] INFO logger_File - verify user enters credentials
+2021-01-19 21:38:42,225 [main] INFO logger_File - user clicks login
+2021-01-19 21:38:44,232 [main] INFO logger_File - User logs in to Canvas Website   passed
+2021-01-19 21:40:27,250 [main] INFO logger_File - Scenario User logs in to Canvas Website Started 
+2021-01-19 21:40:41,025 [main] INFO logger_File - Canvas login page is opened
+2021-01-19 21:40:41,065 [main] INFO logger_File - Page title  is verified
+2021-01-19 21:40:42,244 [main] INFO logger_File - verify user enters credentials
+2021-01-19 21:40:47,527 [main] INFO logger_File - user clicks login
+2021-01-19 21:46:57,815 [main] INFO logger_File - Scenario User logs in to Canvas Website Started 
+2021-01-19 21:47:11,540 [main] INFO logger_File - Canvas login page is opened
+2021-01-19 21:47:11,598 [main] INFO logger_File - Page title  is verified
+2021-01-19 21:47:12,607 [main] INFO logger_File - verify user enters credentials
+2021-01-19 21:47:16,372 [main] INFO logger_File - user clicks login
+2021-01-19 21:53:08,052 [main] INFO logger_File - Scenario User logs in to Canvas Website Started 
+2021-01-19 21:53:21,574 [main] INFO logger_File - Canvas login page is opened
+2021-01-19 21:53:21,622 [main] INFO logger_File - Page title  is verified
+2021-01-19 21:53:22,637 [main] INFO logger_File - verify user enters credentials
+2021-01-19 21:53:25,946 [main] INFO logger_File - user clicks login
+2021-01-19 21:54:25,182 [main] INFO logger_File - Scenario User logs in to Canvas Website Started 
+2021-01-19 21:54:38,728 [main] INFO logger_File - Canvas login page is opened
+2021-01-19 21:54:38,754 [main] INFO logger_File - Page title  is verified
+2021-01-19 21:54:39,908 [main] INFO logger_File - verify user enters credentials
+2021-01-19 21:54:43,718 [main] INFO logger_File - user clicks login
+2021-01-19 21:58:04,990 [main] INFO logger_File - Scenario User logs in to Canvas Website Started 
+2021-01-19 21:58:18,750 [main] INFO logger_File - Canvas login page is opened
+2021-01-19 21:58:18,787 [main] INFO logger_File - Page title  is verified
+2021-01-19 21:58:19,914 [main] INFO logger_File - verify user enters credentials
+2021-01-19 21:58:24,054 [main] INFO logger_File - user clicks login
+2021-01-19 22:00:30,805 [main] INFO logger_File - Scenario User logs in to Canvas Website Started 
+2021-01-19 22:00:44,484 [main] INFO logger_File - Canvas login page is opened
+2021-01-19 22:00:44,535 [main] INFO logger_File - Page title  is verified
+2021-01-19 22:00:45,789 [main] INFO logger_File - verify user enters credentials
+2021-01-19 22:00:49,215 [main] INFO logger_File - user clicks login
+2021-01-19 22:20:09,867 [main] INFO logger_File - Scenario User logs in to Canvas Website Started 
+2021-01-19 22:20:22,666 [main] INFO logger_File - Canvas login page is opened
+2021-01-19 22:20:22,683 [main] INFO logger_File - Page title  is verified
+2021-01-19 22:20:23,556 [main] INFO logger_File - verify user enters credentials
+2021-01-19 22:20:26,716 [main] INFO logger_File - user clicks login
+2021-01-19 22:21:45,591 [main] INFO logger_File - Scenario User logs in to Canvas Website Started 
+2021-01-19 22:21:57,399 [main] INFO logger_File - Canvas login page is opened
+2021-01-19 22:21:57,422 [main] INFO logger_File - Page title  is verified
+2021-01-19 22:21:58,280 [main] INFO logger_File - verify user enters credentials
+2021-01-19 22:22:00,863 [main] INFO logger_File - user clicks login
+2021-01-19 22:25:34,264 [main] INFO logger_File - Scenario User logs in to Canvas Website Started 
+2021-01-19 22:25:46,670 [main] INFO logger_File - Canvas login page is opened
+2021-01-19 22:25:46,689 [main] INFO logger_File - Page title  is verified
+2021-01-19 22:25:47,551 [main] INFO logger_File - verify user enters credentials
+2021-01-19 22:25:50,140 [main] INFO logger_File - user clicks login
+2021-01-19 22:31:07,707 [main] INFO logger_File - Scenario User logs in to Canvas Website Started 
+2021-01-19 22:31:19,555 [main] INFO logger_File - Canvas login page is opened
+2021-01-19 22:31:19,575 [main] INFO logger_File - Page title  is verified
+2021-01-19 22:31:20,504 [main] INFO logger_File - verify user enters credentials
+2021-01-19 22:31:23,908 [main] INFO logger_File - user clicks login
+2021-01-19 22:54:52,999 [main] INFO logger_File - Scenario User logs in to Canvas Website Started 
+2021-01-19 22:55:04,522 [main] INFO logger_File - Canvas login page is opened
+2021-01-19 22:55:04,552 [main] INFO logger_File - Page title  is verified
+2021-01-19 22:55:05,397 [main] INFO logger_File - verify user enters credentials
+2021-01-19 22:55:08,187 [main] INFO logger_File - user clicks login
+2021-01-19 22:56:05,795 [main] INFO logger_File - Scenario User logs in to Canvas Website Started 
+2021-01-19 22:56:17,890 [main] INFO logger_File - Canvas login page is opened
+2021-01-19 22:56:17,941 [main] INFO logger_File - Page title  is verified
+2021-01-19 22:56:18,860 [main] INFO logger_File - verify user enters credentials
+2021-01-19 22:56:21,504 [main] INFO logger_File - user clicks login
+2021-01-19 22:58:09,456 [main] INFO logger_File - Scenario User logs in to Canvas Website Started 
+2021-01-19 22:58:21,251 [main] INFO logger_File - Canvas login page is opened
+2021-01-19 22:58:21,274 [main] INFO logger_File - Page title  is verified
+2021-01-19 22:58:22,149 [main] INFO logger_File - verify user enters credentials
+2021-01-19 22:58:27,229 [main] INFO logger_File - user clicks login
+2021-01-19 23:04:28,722 [main] INFO logger_File - Scenario User logs in to Canvas Website Started 
+2021-01-19 23:04:40,553 [main] INFO logger_File - Canvas login page is opened
+2021-01-19 23:04:40,583 [main] INFO logger_File - Page title  is verified
+2021-01-19 23:04:41,794 [main] INFO logger_File - verify user enters credentials
+2021-01-19 23:04:44,762 [main] INFO logger_File - user clicks login
+2021-01-19 23:06:12,284 [main] INFO logger_File - Scenario User logs in to Canvas Website Started 
+2021-01-19 23:06:23,843 [main] INFO logger_File - Canvas login page is opened
+2021-01-19 23:06:23,875 [main] INFO logger_File - Page title  is verified
+2021-01-19 23:06:24,823 [main] INFO logger_File - verify user enters credentials
+2021-01-19 23:06:27,567 [main] INFO logger_File - user clicks login
+2021-01-19 23:08:07,206 [main] INFO logger_File - Scenario User logs in to Canvas Website Started 
+2021-01-19 23:08:19,267 [main] INFO logger_File - Canvas login page is opened
+2021-01-19 23:08:19,292 [main] INFO logger_File - Page title  is verified
+2021-01-19 23:08:20,215 [main] INFO logger_File - verify user enters credentials
+2021-01-19 23:08:22,798 [main] INFO logger_File - user clicks login
+2021-01-19 23:09:18,394 [main] INFO logger_File - Scenario User logs in to Canvas Website Started 
+2021-01-19 23:09:31,363 [main] INFO logger_File - Canvas login page is opened
+2021-01-19 23:09:31,393 [main] INFO logger_File - Page title  is verified
+2021-01-19 23:09:32,355 [main] INFO logger_File - verify user enters credentials
+2021-01-19 23:09:35,146 [main] INFO logger_File - user clicks login
+2021-01-19 23:15:13,730 [main] INFO logger_File - Scenario User logs in to Canvas Website Started 
+2021-01-19 23:15:26,860 [main] INFO logger_File - Canvas login page is opened
+2021-01-19 23:15:26,903 [main] INFO logger_File - Page title  is verified
+2021-01-19 23:15:28,166 [main] INFO logger_File - verify user enters credentials
+2021-01-19 23:15:31,657 [main] INFO logger_File - user clicks login
+2021-01-19 23:16:25,392 [main] INFO logger_File - Scenario User logs in to Canvas Website Started 
+2021-01-19 23:16:37,291 [main] INFO logger_File - Canvas login page is opened
+2021-01-19 23:16:37,314 [main] INFO logger_File - Page title  is verified
+2021-01-19 23:16:38,203 [main] INFO logger_File - verify user enters credentials
+2021-01-19 23:16:42,023 [main] INFO logger_File - user clicks login
+2021-01-19 23:17:14,075 [main] INFO logger_File - Scenario User logs in to Canvas Website Started 
+2021-01-19 23:17:28,170 [main] INFO logger_File - Canvas login page is opened
+2021-01-19 23:17:28,187 [main] INFO logger_File - Page title  is verified
+2021-01-19 23:17:29,225 [main] INFO logger_File - verify user enters credentials
+2021-01-19 23:17:32,843 [main] INFO logger_File - user clicks login
+2021-01-19 23:18:47,464 [main] INFO logger_File - Scenario User logs in to Canvas Website Started 
+2021-01-19 23:18:58,804 [main] INFO logger_File - Canvas login page is opened
+2021-01-19 23:18:58,822 [main] INFO logger_File - Page title  is verified
+2021-01-19 23:18:59,753 [main] INFO logger_File - verify user enters credentials
+2021-01-19 23:19:02,441 [main] INFO logger_File - user clicks login
+2021-01-19 23:19:09,338 [main] INFO logger_File - User logs in to Canvas Website   passed
+2021-01-20 15:28:09,333 [main] INFO logger_File - Scenario User logs in to Canvas Website Started 
+2021-01-20 15:28:25,637 [main] INFO logger_File - Canvas login page is opened
+2021-01-20 15:28:25,736 [main] INFO logger_File - Page title  is verified
+2021-01-20 15:28:27,142 [main] INFO logger_File - verify user enters credentials
+2021-01-20 15:28:33,927 [main] INFO logger_File - user clicks login
+2021-01-20 15:28:37,304 [main] INFO logger_File - User logs in to Canvas Website   failed
+2021-01-20 15:29:01,573 [main] INFO logger_File - Scenario User logs in to Canvas Website Started 
+2021-01-20 15:29:16,390 [main] INFO logger_File - Canvas login page is opened
+2021-01-20 15:29:16,439 [main] INFO logger_File - Page title  is verified
+2021-01-20 15:29:17,700 [main] INFO logger_File - verify user enters credentials
+2021-01-20 15:29:23,648 [main] INFO logger_File - user clicks login
+2021-01-20 15:29:27,119 [main] INFO logger_File - User logs in to Canvas Website   failed
+2021-01-20 15:31:24,098 [main] INFO logger_File - Scenario User logs in to Canvas Website Started 
+2021-01-20 15:31:38,572 [main] INFO logger_File - Canvas login page is opened
+2021-01-20 15:31:38,640 [main] INFO logger_File - Page title  is verified
+2021-01-20 15:31:39,864 [main] INFO logger_File - verify user enters credentials
+2021-01-20 15:31:44,361 [main] INFO logger_File - user clicks login
+2021-01-20 15:31:47,618 [main] INFO logger_File - User logs in to Canvas Website   failed
+2021-01-20 15:33:04,846 [main] INFO logger_File - Scenario User logs in to Canvas Website Started 
+2021-01-20 15:33:19,035 [main] INFO logger_File - Canvas login page is opened
+2021-01-20 15:33:19,073 [main] INFO logger_File - Page title  is verified
+2021-01-20 15:33:20,312 [main] INFO logger_File - verify user enters credentials
+2021-01-20 15:33:24,552 [main] INFO logger_File - user clicks login
+2021-01-20 15:33:26,692 [main] INFO logger_File - User logs in to Canvas Website   failed
+2021-01-20 15:34:20,265 [main] INFO logger_File - Scenario User logs in to Canvas Website Started 
+2021-01-20 15:34:34,544 [main] INFO logger_File - Canvas login page is opened
+2021-01-20 15:34:34,559 [main] INFO logger_File - Page title  is verified
+2021-01-20 15:34:35,725 [main] INFO logger_File - verify user enters credentials
+2021-01-20 15:34:40,114 [main] INFO logger_File - user clicks login
+2021-01-20 15:34:47,342 [main] INFO logger_File - User logs in to Canvas Website   failed
+2021-01-20 15:36:18,581 [main] INFO logger_File - Scenario User logs in to Canvas Website Started 
+2021-01-20 15:36:33,314 [main] INFO logger_File - Canvas login page is opened
+2021-01-20 15:36:33,336 [main] INFO logger_File - Page title  is verified
+2021-01-20 15:36:34,532 [main] INFO logger_File - verify user enters credentials
+2021-01-20 15:36:38,843 [main] INFO logger_File - user clicks login
+2021-01-20 15:37:30,971 [main] INFO logger_File - User logs in to Canvas Website   failed
+2021-01-20 15:39:36,163 [main] INFO logger_File - Scenario User logs in to Canvas Website Started 
+2021-01-20 15:39:51,950 [main] INFO logger_File - Canvas login page is opened
+2021-01-20 15:39:52,026 [main] INFO logger_File - Page title  is verified
+2021-01-20 15:39:53,302 [main] INFO logger_File - verify user enters credentials
+2021-01-20 15:39:59,410 [main] INFO logger_File - user clicks login
+2021-01-20 15:47:10,093 [main] INFO logger_File - Scenario User logs in to Canvas Website Started 
+2021-01-20 15:47:23,958 [main] INFO logger_File - Canvas login page is opened
+2021-01-20 15:47:24,020 [main] INFO logger_File - Page title  is verified
+2021-01-20 15:47:25,029 [main] INFO logger_File - verify user enters credentials
+2021-01-20 15:47:29,442 [main] INFO logger_File - user clicks login
+2021-01-20 15:49:12,526 [main] INFO logger_File - Scenario User logs in to Canvas Website Started 
+2021-01-20 15:49:27,140 [main] INFO logger_File - Canvas login page is opened
+2021-01-20 15:49:27,222 [main] INFO logger_File - Page title  is verified
+2021-01-20 15:49:28,321 [main] INFO logger_File - verify user enters credentials
+2021-01-20 15:49:33,361 [main] INFO logger_File - user clicks login
+2021-01-20 15:50:51,785 [main] INFO logger_File - Scenario User logs in to Canvas Website Started 
+2021-01-20 15:51:05,730 [main] INFO logger_File - Canvas login page is opened
+2021-01-20 15:51:05,808 [main] INFO logger_File - Page title  is verified
+2021-01-20 15:51:06,791 [main] INFO logger_File - verify user enters credentials
+2021-01-20 15:51:11,422 [main] INFO logger_File - user clicks login
+2021-01-20 15:53:40,930 [main] INFO logger_File - Scenario User logs in to Canvas Website Started 
+2021-01-20 15:53:55,209 [main] INFO logger_File - Canvas login page is opened
+2021-01-20 15:53:55,251 [main] INFO logger_File - Page title  is verified
+2021-01-20 15:53:56,577 [main] INFO logger_File - verify user enters credentials
+2021-01-20 15:54:01,982 [main] INFO logger_File - user clicks login
+2021-01-20 16:43:09,840 [main] INFO logger_File - Scenario User accesses PowerPoint files through dashboard Started 
+2021-01-20 16:43:24,487 [main] INFO logger_File - Canvas login page is opened
+2021-01-20 16:43:24,641 [main] INFO logger_File - Page title  is verified
+2021-01-20 16:43:25,788 [main] INFO logger_File - verify user enters credentials
+2021-01-20 16:43:32,455 [main] INFO logger_File - user clicks login
+2021-01-20 16:43:33,180 [main] INFO logger_File - verfiy dashboard
+2021-01-20 16:46:14,601 [main] INFO logger_File - Scenario User logs in to Canvas Website Started 
+2021-01-20 16:46:28,747 [main] INFO logger_File - Canvas login page is opened
+2021-01-20 16:46:28,780 [main] INFO logger_File - Page title  is verified
+2021-01-20 16:46:29,874 [main] INFO logger_File - verify user enters credentials
+2021-01-20 16:46:34,892 [main] INFO logger_File - user clicks login
+2021-01-20 16:46:41,574 [main] INFO logger_File - Scenario User accesses PowerPoint files through dashboard Started 
+2021-01-20 16:46:54,381 [main] INFO logger_File - Canvas login page is opened
+2021-01-20 16:46:54,407 [main] INFO logger_File - Page title  is verified
+2021-01-20 16:46:55,464 [main] INFO logger_File - verify user enters credentials
+2021-01-20 16:47:00,871 [main] INFO logger_File - user clicks login
+2021-01-20 16:47:01,721 [main] INFO logger_File - verfiy dashboard
+2021-01-20 16:49:36,313 [main] INFO logger_File - Scenario User logs in to Canvas Website Started 
+2021-01-20 16:49:50,742 [main] INFO logger_File - Canvas login page is opened
+2021-01-20 16:49:50,765 [main] INFO logger_File - Page title  is verified
+2021-01-20 16:49:51,974 [main] INFO logger_File - verify user enters credentials
+2021-01-20 16:49:57,637 [main] INFO logger_File - user clicks login
+2021-01-20 16:50:03,851 [main] INFO logger_File - Scenario User accesses PowerPoint files through dashboard Started 
+2021-01-20 16:50:16,551 [main] INFO logger_File - Canvas login page is opened
+2021-01-20 16:50:16,596 [main] INFO logger_File - Page title  is verified
+2021-01-20 16:50:17,877 [main] INFO logger_File - verify user enters credentials
+2021-01-20 16:50:23,919 [main] INFO logger_File - user clicks login
+2021-01-20 16:50:24,777 [main] INFO logger_File - verfiy dashboard
+2021-01-20 16:55:22,206 [main] INFO logger_File - Scenario User logs in to Canvas Website Started 
+2021-01-20 16:55:36,809 [main] INFO logger_File - Canvas login page is opened
+2021-01-20 16:55:36,859 [main] INFO logger_File - Page title  is verified
+2021-01-20 16:55:38,097 [main] INFO logger_File - verify user enters credentials
+2021-01-20 16:55:43,905 [main] INFO logger_File - user clicks login
+2021-01-20 16:55:50,650 [main] INFO logger_File - Scenario User accesses PowerPoint files through dashboard Started 
+2021-01-20 16:56:03,869 [main] INFO logger_File - Canvas login page is opened
+2021-01-20 16:56:03,986 [main] INFO logger_File - Page title  is verified
+2021-01-20 16:56:05,255 [main] INFO logger_File - verify user enters credentials
+2021-01-20 16:56:10,482 [main] INFO logger_File - user clicks login
+2021-01-20 16:56:11,526 [main] INFO logger_File - verfiy dashboard
+2021-01-20 16:56:20,643 [main] INFO logger_File - Click on class
+2021-01-20 16:56:21,433 [main] INFO logger_File - verfiy home button exists
+2021-01-20 17:10:51,635 [main] INFO logger_File - Scenario User logs in to Canvas Website Started 
+2021-01-20 17:11:06,761 [main] INFO logger_File - Canvas login page is opened
+2021-01-20 17:11:06,796 [main] INFO logger_File - Page title  is verified
+2021-01-20 17:11:07,974 [main] INFO logger_File - verify user enters credentials
+2021-01-20 17:11:15,218 [main] INFO logger_File - user clicks login
+2021-01-20 17:11:21,456 [main] INFO logger_File - Scenario User accesses PowerPoint files through dashboard Started 
+2021-01-20 17:11:34,759 [main] INFO logger_File - Canvas login page is opened
+2021-01-20 17:11:34,793 [main] INFO logger_File - Page title  is verified
+2021-01-20 17:11:36,428 [main] INFO logger_File - verify user enters credentials
+2021-01-20 17:11:43,707 [main] INFO logger_File - user clicks login
+2021-01-20 17:11:44,481 [main] INFO logger_File - verfiy dashboard
+2021-01-20 17:11:55,296 [main] INFO logger_File - Click on class
+2021-01-20 17:11:56,048 [main] INFO logger_File - verfiy home button exists
+2021-01-20 17:28:14,851 [main] INFO logger_File - Scenario User logs in to Canvas Website Started 
+2021-01-20 17:28:29,841 [main] INFO logger_File - Canvas login page is opened
+2021-01-20 17:28:29,869 [main] INFO logger_File - Page title  is verified
+2021-01-20 17:28:31,006 [main] INFO logger_File - verify user enters credentials
+2021-01-20 17:28:37,249 [main] INFO logger_File - user clicks login
+2021-01-20 17:28:43,370 [main] INFO logger_File - Scenario User accesses PowerPoint files through dashboard Started 
+2021-01-20 17:28:56,253 [main] INFO logger_File - Canvas login page is opened
+2021-01-20 17:28:56,274 [main] INFO logger_File - Page title  is verified
+2021-01-20 17:28:57,292 [main] INFO logger_File - verify user enters credentials
+2021-01-20 17:29:02,281 [main] INFO logger_File - user clicks login
+2021-01-20 17:29:03,113 [main] INFO logger_File - verfiy dashboard
+2021-01-20 17:29:11,810 [main] INFO logger_File - Click on class
+2021-01-20 17:29:12,491 [main] INFO logger_File - verfiy home button exists
+2021-01-20 17:51:18,620 [main] INFO logger_File - Scenario User logs in to Canvas Website Started 
+2021-01-20 17:51:33,804 [main] INFO logger_File - Canvas login page is opened
+2021-01-20 17:51:33,850 [main] INFO logger_File - Page title  is verified
+2021-01-20 17:51:35,021 [main] INFO logger_File - verify user enters credentials
+2021-01-20 17:51:40,775 [main] INFO logger_File - user clicks login
+2021-01-20 17:51:46,944 [main] INFO logger_File - Scenario User accesses PowerPoint files through dashboard Started 
+2021-01-20 17:51:59,347 [main] INFO logger_File - Canvas login page is opened
+2021-01-20 17:51:59,377 [main] INFO logger_File - Page title  is verified
+2021-01-20 17:52:00,409 [main] INFO logger_File - verify user enters credentials
+2021-01-20 17:52:06,253 [main] INFO logger_File - user clicks login
+2021-01-20 17:52:06,990 [main] INFO logger_File - verfiy dashboard
+2021-01-20 17:52:16,095 [main] INFO logger_File - Click on class
+2021-01-20 17:52:16,820 [main] INFO logger_File - verfiy home button exists
+2021-01-20 17:56:47,993 [main] INFO logger_File - Scenario User logs in to Canvas Website Started 
+2021-01-20 17:57:02,670 [main] INFO logger_File - Canvas login page is opened
+2021-01-20 17:57:02,697 [main] INFO logger_File - Page title  is verified
+2021-01-20 17:57:03,880 [main] INFO logger_File - verify user enters credentials
+2021-01-20 17:57:10,747 [main] INFO logger_File - user clicks login
+2021-01-20 17:57:16,890 [main] INFO logger_File - Scenario User accesses PowerPoint files through dashboard Started 
+2021-01-20 17:57:30,243 [main] INFO logger_File - Canvas login page is opened
+2021-01-20 17:57:30,283 [main] INFO logger_File - Page title  is verified
+2021-01-20 17:57:31,474 [main] INFO logger_File - verify user enters credentials
+2021-01-20 17:57:36,573 [main] INFO logger_File - user clicks login
+2021-01-20 17:57:37,355 [main] INFO logger_File - verfiy dashboard
+2021-01-20 17:57:47,473 [main] INFO logger_File - Click on class
+2021-01-20 17:57:48,263 [main] INFO logger_File - verfiy home button exists
+2021-01-20 21:41:24,958 [main] INFO logger_File - Scenario User logs in to Canvas Website Started 
+2021-01-20 21:41:38,270 [main] INFO logger_File - Canvas login page is opened
+2021-01-20 21:41:38,302 [main] INFO logger_File - Page title  is verified
+2021-01-20 21:41:39,183 [main] INFO logger_File - verify user enters credentials
+2021-01-20 21:41:42,380 [main] INFO logger_File - user clicks login
+2021-01-20 21:42:36,692 [main] INFO logger_File - Scenario User accesses PowerPoint files through dashboard Started 
+2021-01-20 21:42:49,671 [main] INFO logger_File - Canvas login page is opened
+2021-01-20 21:42:49,693 [main] INFO logger_File - Page title  is verified
+2021-01-20 21:42:50,580 [main] INFO logger_File - verify user enters credentials
+2021-01-20 21:42:53,239 [main] INFO logger_File - user clicks login
+2021-01-20 21:42:54,025 [main] INFO logger_File - verfiy dashboard
+2021-01-20 21:43:01,639 [main] INFO logger_File - Click on class
+2021-01-20 21:43:02,320 [main] INFO logger_File - verfiy home button exists
+2021-01-20 22:17:14,054 [main] INFO logger_File - Scenario User accesses PowerPoint files through dashboard Started 
+2021-01-20 22:17:27,073 [main] INFO logger_File - Canvas login page is opened
+2021-01-20 22:17:27,090 [main] INFO logger_File - Page title  is verified
+2021-01-20 22:17:27,990 [main] INFO logger_File - verify user enters credentials
+2021-01-20 22:17:31,312 [main] INFO logger_File - user clicks login
+2021-01-20 22:17:31,985 [main] INFO logger_File - verfiy dashboard
+2021-01-20 22:17:39,270 [main] INFO logger_File - Click on class
+2021-01-20 22:17:40,086 [main] INFO logger_File - verfiy home button exists
+2021-01-20 22:22:54,223 [main] INFO logger_File - Scenario User accesses PowerPoint files through dashboard Started 
+2021-01-20 22:23:06,378 [main] INFO logger_File - Canvas login page is opened
+2021-01-20 22:23:06,397 [main] INFO logger_File - Page title  is verified
+2021-01-20 22:23:07,379 [main] INFO logger_File - verify user enters credentials
+2021-01-20 22:23:10,212 [main] INFO logger_File - user clicks login
+2021-01-20 22:23:10,904 [main] INFO logger_File - verfiy dashboard
+2021-01-20 22:23:18,289 [main] INFO logger_File - Click on class
+2021-01-20 22:23:18,983 [main] INFO logger_File - verfiy home button exists
+2021-01-20 22:27:41,824 [main] INFO logger_File - Scenario User accesses PowerPoint files through dashboard Started 
+2021-01-20 22:27:54,437 [main] INFO logger_File - Canvas login page is opened
+2021-01-20 22:27:54,477 [main] INFO logger_File - Page title  is verified
+2021-01-20 22:27:55,449 [main] INFO logger_File - verify user enters credentials
+2021-01-20 22:27:58,213 [main] INFO logger_File - user clicks login
+2021-01-20 22:27:58,905 [main] INFO logger_File - verfiy dashboard
+2021-01-20 22:28:06,074 [main] INFO logger_File - Click on class
+2021-01-20 22:28:06,864 [main] INFO logger_File - verfiy home button exists
+2021-01-20 22:31:14,601 [main] INFO logger_File - Scenario User accesses PowerPoint files through dashboard Started 
+2021-01-20 22:31:27,094 [main] INFO logger_File - Canvas login page is opened
+2021-01-20 22:31:27,117 [main] INFO logger_File - Page title  is verified
+2021-01-20 22:31:28,024 [main] INFO logger_File - verify user enters credentials
+2021-01-20 22:31:31,156 [main] INFO logger_File - user clicks login
+2021-01-20 22:31:31,844 [main] INFO logger_File - verfiy dashboard
+2021-01-20 22:31:39,311 [main] INFO logger_File - Click on class
+2021-01-20 22:31:40,104 [main] INFO logger_File - verfiy home button exists
+2021-01-20 22:36:38,660 [main] INFO logger_File - Scenario User accesses PowerPoint files through dashboard Started 
+2021-01-20 22:36:50,856 [main] INFO logger_File - Canvas login page is opened
+2021-01-20 22:36:50,879 [main] INFO logger_File - Page title  is verified
+2021-01-20 22:36:51,973 [main] INFO logger_File - verify user enters credentials
+2021-01-20 22:36:54,924 [main] INFO logger_File - user clicks login
+2021-01-20 22:36:55,760 [main] INFO logger_File - verfiy dashboard
+2021-01-20 22:37:03,018 [main] INFO logger_File - Click on class
+2021-01-20 22:37:03,788 [main] INFO logger_File - verfiy home button exists
+2021-01-21 17:14:31,859 [main] INFO logger_File - Scenario Investor views quarterly financial reports Started 
+2021-01-21 17:15:53,585 [main] INFO logger_File - Scenario Investor views quarterly financial reports Started 
+2021-01-21 17:16:57,240 [main] INFO logger_File - Investor views quarterly financial reports   failed
+2021-01-21 17:38:52,734 [main] INFO logger_File - Scenario Investor views quarterly financial reports Started 
+2021-01-21 17:39:11,595 [main] INFO logger_File - Investor views quarterly financial reports   failed
+2021-01-21 17:40:15,082 [main] INFO logger_File - Scenario Investor views quarterly financial reports Started 
+2021-01-21 17:41:18,245 [main] INFO logger_File - Investor views quarterly financial reports   failed
+2021-01-21 17:59:19,425 [main] INFO logger_File - Scenario Investor views quarterly financial reports Started 
+2021-01-21 17:59:42,341 [main] INFO logger_File - Investor views quarterly financial reports   failed
+2021-01-21 18:01:47,803 [main] INFO logger_File - Scenario Investor views quarterly financial reports Started 
+2021-01-21 18:03:40,293 [main] INFO logger_File - Scenario Investor views quarterly financial reports Started 
+2021-01-21 18:05:13,834 [main] INFO logger_File - Scenario Investor views quarterly financial reports Started 
+2021-01-21 21:06:59,808 [main] INFO logger_File - Scenario Investor views quarterly financial reports Started 
+2021-01-21 22:25:40,110 [main] INFO logger_File - Scenario Investor views quarterly financial reports Started 
+2021-01-21 22:27:37,304 [main] INFO logger_File - Scenario Investor views quarterly financial reports Started 
+2021-01-21 22:49:12,415 [main] INFO logger_File - Scenario Investor views quarterly financial reports Started 
+2021-01-21 22:53:31,498 [main] INFO logger_File - Scenario Investor views quarterly financial reports Started 
+2021-01-21 22:55:00,962 [main] INFO logger_File - Scenario Investor views quarterly financial reports Started 
+2021-01-21 23:03:32,489 [main] INFO logger_File - Scenario Investor views quarterly financial reports Started 
+2021-01-21 23:10:01,823 [main] INFO logger_File - Scenario Investor views quarterly financial reports Started 

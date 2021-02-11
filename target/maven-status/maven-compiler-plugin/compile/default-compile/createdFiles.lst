@@ -1,0 +1,11 @@
+pageObjects\AddToShoppingCartPageObj.class
+utilities\WebDriverUtility.class
+pageObjects\RemoveFromWishlistPageObj.class
+pageObjects\MyAccountPageObj.class
+utilities\DataBaseUtility.class
+pageObjects\RegisterFormPageObj.class
+core\Base.class
+pageObjects\ChangeCurrencyPageObj.class
+pageObjects\LoginPageObj.class
+pageObjects\RemoveItemsFromCartPageObj.class
+pageObjects\AddToWishListPageObj.class

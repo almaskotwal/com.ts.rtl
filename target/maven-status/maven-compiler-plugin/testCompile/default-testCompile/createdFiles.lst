@@ -1,0 +1,8 @@
+stepDefinitions\AddRemoveFromWishListStepDefinition.class
+stepDefinitions\SqlQueryStepDefinition.class
+stepDefinitions\LoginTestStepDefinition.class
+stepDefinitions\RegisterFormStepDefinition.class
+stepDefinitions\AddRemoveItemsStepDefinition.class
+stepDefinitions\Initializer.class
+stepDefinitions\ChangeCurrencyStepDefinition.class
+runner\TestRunner.class
